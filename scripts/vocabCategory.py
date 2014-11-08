@@ -46,6 +46,10 @@ def findCategory(text):
 	response = alchemyapi.category('text', text)
 	return response
 
+## we first load the dataset in turtle (graph)
+## Then, we iterate over the dcterms:description to call the alchemy API
+## We add also the category of the vocabulary in LOV using frapo:hasDomainName property
+## The dataset of vocabularies used in LOV are based on the snapshot of 06th, November 2014
 
 if __name__=='__main__':
 	 # read graph in turtle.
