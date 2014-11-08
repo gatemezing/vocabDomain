@@ -8,7 +8,8 @@ import json
 import sys
 import argparse
 
-# --- liste des classes et individus - requete 1 ---
+# ---This script is to look-up DBpedia resources
+## to find the categories they belong to...
 
 def preprocess(concept):
 	var = concept.split( )
@@ -17,6 +18,7 @@ def preprocess(concept):
 
 	return var 
 
+## creation of DBpedia uris
 def makeuri(concept): 
 	var = concept
 	if len(concept.split( )) > 1 :
@@ -26,7 +28,8 @@ def makeuri(concept):
 	return base + str(var)
 	 
 
-
+## Here we query Dbpedia looking for dcterms:subject
+## ordering by MAX(RANKing(SKOS_URIs))
 def findCategory(resource): 
 	if use_sparql:
 		sparql = SPARQLWrapper("http://dbpedia.org/sparql") #"http://dbpedia.org/sparql"
@@ -38,23 +41,18 @@ def findCategory(resource):
 		""")
 		sparql.setReturnFormat(JSON)
 		cats = sparql.query().convert()
-
+## List of the categories
 	tcat = []
 	for cat in cats["results"]["bindings"]:
 		uri = cat['category']['value']
 		tcat.append(uri)
 		
 	#print tcat
-		
+	## For now, just return the max one..the first of the list	
 	return 	tcat[0]
 		
 
-		#new_classes['children'].append(item)
-
-	#with open("classesd3.json", "w") as f:
-		#f.write(json.dumps(new_classes, sort_keys=True, indent=4))
-
-
+## List of concepts retrieved from Alchemy
 categories = []
 #concepts = ["Semantic Web", "Web Ontology Language", "Time", "Website", "Being", "Vocabulary", "Metaphysics", "Semantics", "Resource Description Framework", "Concept"]
 concepts = ["2000s music groups", "Breed Groups", "Group",
