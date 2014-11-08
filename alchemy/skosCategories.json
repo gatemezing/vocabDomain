@@ -1,0 +1,2134 @@
+{
+    "categories": [
+        {
+            "LOVcategory": "E-Business", 
+            "skoscategory": "http://dbpedia.org/resource/Category:E-commerce", 
+            "vocab": "http://purl.org/b2bo#"
+        }, 
+        {
+            "LOVcategory": "Music and Sound", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Human%E2%80%93computer_interaction", 
+            "vocab": "http://purl.org/ontology/mo/"
+        }, 
+        {
+            "LOVcategory": "Events", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Linguistics", 
+            "vocab": "http://www.kanzaki.com/ns/music"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Programming_language_topics", 
+            "vocab": "http://ns.inria.fr/ast/sql#"
+        }, 
+        {
+            "LOVcategory": "Contracts", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Contract_law", 
+            "vocab": "http://purl.org/procurement/public-contracts"
+        }, 
+        {
+            "LOVcategory": "Geography", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Former_monarchies_of_Europe", 
+            "vocab": "http://data.ordnancesurvey.co.uk/ontology/postcode/"
+        }, 
+        {
+            "LOVcategory": "FRBR, RDA, FRAD and related vocabularies", 
+            "skoscategory": [], 
+            "vocab": "http://rdvocab.info/roles"
+        }, 
+        {
+            "LOVcategory": "People", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Interpersonal_relationships", 
+            "vocab": "http://purl.org/vocab/relationship/"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Philosophy_of_science", 
+            "vocab": "http://iserve.kmi.open.ac.uk/ns/hrests"
+        }, 
+        {
+            "LOVcategory": "Social organization", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Political_theories", 
+            "vocab": "http://purl.org/oslo/ns/localgov"
+        }, 
+        {
+            "LOVcategory": "Vocabularies, Languages and Terminologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Formal_languages", 
+            "vocab": "http://www.w3.org/2003/11/swrl"
+        }, 
+        {
+            "LOVcategory": "PLM", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Companies_listed_on_the_New_York_Stock_Exchange", 
+            "vocab": "http://open-services.net/ns/core#"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": "http://dbpedia.org/resource/Category:International_organizations_of_Europe", 
+            "vocab": "http://purl.org/net/provenance/ns#"
+        }, 
+        {
+            "LOVcategory": "Multimedia", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Language", 
+            "vocab": "http://purl.org/ontology/po/"
+        }, 
+        {
+            "LOVcategory": "Support vocabularies", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/swan/2.0/discourse-relationships/"
+        }, 
+        {
+            "LOVcategory": "RDF Data", 
+            "skoscategory": [], 
+            "vocab": "http://www.w3.org/ns/rdfa#"
+        }, 
+        {
+            "LOVcategory": "Geography", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Windows_Vista", 
+            "vocab": "http://www.mindswap.org/2003/owl/geo/geoFeatures20040307.owl"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Data_management", 
+            "vocab": "http://purl.org/cld/terms/"
+        }, 
+        {
+            "LOVcategory": "Security", 
+            "skoscategory": [], 
+            "vocab": "http://www.tele.pw.edu.pl/~sims-onto/ConnectivityType.owl"
+        }, 
+        {
+            "LOVcategory": "People", 
+            "skoscategory": "http://dbpedia.org/resource/Category:ASCII", 
+            "vocab": "http://xmlns.com/foaf/0.1/"
+        }, 
+        {
+            "LOVcategory": "RDF Data", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Applied_linguistics", 
+            "vocab": "http://www.w3.org/2004/03/trix/swp-1"
+        }, 
+        {
+            "LOVcategory": "Support vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Living_people", 
+            "vocab": "http://www.gsi.dit.upm.es/ontologies/onyx/ns"
+        }, 
+        {
+            "LOVcategory": "Geography", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Ontology", 
+            "vocab": "http://www.telegraphis.net/ontology/geography/geography#"
+        }, 
+        {
+            "LOVcategory": "Vocabularies, Languages and Terminologies", 
+            "skoscategory": [], 
+            "vocab": "http://www.lexinfo.net/ontology/2.0/lexinfo"
+        }, 
+        {
+            "LOVcategory": "PLM", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Production_and_manufacturing", 
+            "vocab": "http://spi-fm.uca.es/spdef/models/deployment/spcm/1.0"
+        }, 
+        {
+            "LOVcategory": "Geography", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Geographic_information_systems", 
+            "vocab": "http://www.w3.org/ns/locn"
+        }, 
+        {
+            "LOVcategory": "Health", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/healthcarevocab/v1"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Knowledge_representation", 
+            "vocab": "http://eprints.org/ontology/"
+        }, 
+        {
+            "LOVcategory": "Metadata", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Living_people", 
+            "vocab": "http://www.oegov.org/core/owl/cc"
+        }, 
+        {
+            "LOVcategory": "CSV Data", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Writing", 
+            "vocab": "http://rdf-vocabulary.ddialliance.org/phdd"
+        }, 
+        {
+            "LOVcategory": "People", 
+            "skoscategory": "http://dbpedia.org/resource/Category:User_interface_techniques", 
+            "vocab": "http://ns.inria.fr/emoca"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Concepts_in_physics", 
+            "vocab": "http://purl.org/pav/"
+        }, 
+        {
+            "LOVcategory": "Support vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Semantics", 
+            "vocab": "http://purl.org/ontology/ao/core#"
+        }, 
+        {
+            "LOVcategory": "General and Upper Ontologies", 
+            "skoscategory": [], 
+            "vocab": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Source_code", 
+            "vocab": "http://purl.org/linked-data/sdmx/2009/code"
+        }, 
+        {
+            "LOVcategory": "General and Upper Ontologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:World_Wide_Web", 
+            "vocab": "http://open.vocab.org/terms"
+        }, 
+        {
+            "LOVcategory": "Vocabularies, Languages and Terminologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Standards", 
+            "vocab": "http://purl.org/iso25964/skos-thes"
+        }, 
+        {
+            "LOVcategory": "Social Semantic Desktop", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Cognition", 
+            "vocab": "http://www.semanticdesktop.org/ontologies/2007/08/15/nrl"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Applied_mathematics", 
+            "vocab": "http://purl.org/linked-data/sdmx"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/vocab/changeset/schema"
+        }, 
+        {
+            "LOVcategory": "Geography", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Semantic_Web", 
+            "vocab": "http://www.geonames.org/ontology"
+        }, 
+        {
+            "LOVcategory": "Press and News", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Unprintworthy_redirects", 
+            "vocab": "http://data.press.net/ontology/event/"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Applied_linguistics", 
+            "vocab": "http://purl.org/archival/vocab/arch"
+        }, 
+        {
+            "LOVcategory": "People", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Human%E2%80%93computer_interaction", 
+            "vocab": "http://purl.org/ontology/wi/core#"
+        }, 
+        {
+            "LOVcategory": "W3C Recommendations", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Applied_linguistics", 
+            "vocab": "http://www.w3.org/2008/05/skos-xl"
+        }, 
+        {
+            "LOVcategory": "Geography", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Knowledge_representation", 
+            "vocab": "http://aims.fao.org/aos/geopolitical.owl"
+        }, 
+        {
+            "LOVcategory": "The Government", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Presidency_of_the_United_States", 
+            "vocab": "http://vocab.data.gov/def/fea"
+        }, 
+        {
+            "LOVcategory": "Metadata", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Free_software", 
+            "vocab": "http://creativecommons.org/ns"
+        }, 
+        {
+            "LOVcategory": "RDF Data", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Human%E2%80%93computer_interaction", 
+            "vocab": "http://www.w3.org/2000/10/swap/log"
+        }, 
+        {
+            "LOVcategory": "Support vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Data_management", 
+            "vocab": "http://def.seegrid.csiro.au/isotc211/iso19115/2003/lineage"
+        }, 
+        {
+            "LOVcategory": "Geography", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Object-oriented_programming", 
+            "vocab": "http://def.seegrid.csiro.au/isotc211/iso19109/2005/feature"
+        }, 
+        {
+            "LOVcategory": "Timeline, Calendar", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Computer_file_formats", 
+            "vocab": "http://semweb.mmlab.be/ns/oh"
+        }, 
+        {
+            "LOVcategory": "The Government", 
+            "skoscategory": [], 
+            "vocab": "http://www.oegov.org/core/owl/gc"
+        }, 
+        {
+            "LOVcategory": "Geometry", 
+            "skoscategory": [], 
+            "vocab": "http://www.opengis.net/ont/geosparql"
+        }, 
+        {
+            "LOVcategory": "Games", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Probability_theory", 
+            "vocab": "http://data.totl.net/game/"
+        }, 
+        {
+            "LOVcategory": "Metadata", 
+            "skoscategory": "http://dbpedia.org/resource/Category:XML-based_standards", 
+            "vocab": "http://purl.org/imbi/ru-meta.owl"
+        }, 
+        {
+            "LOVcategory": "Vocabularies, Languages and Terminologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Language", 
+            "vocab": "http://www.w3.org/2003/g/data-view"
+        }, 
+        {
+            "LOVcategory": "PROTON Ontologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Knowledge_representation", 
+            "vocab": "http://www.ontotext.com/proton/protontop"
+        }, 
+        {
+            "LOVcategory": "Social organization", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Philosophy_of_science", 
+            "vocab": "http://purl.org/vocab/participation/schema"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Content_management_systems", 
+            "vocab": "http://www.bbc.co.uk/ontologies/cms"
+        }, 
+        {
+            "LOVcategory": "RDF Data", 
+            "skoscategory": [], 
+            "vocab": "http://www.w3.org/ns/r2rml#"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Intellectual_property_law", 
+            "vocab": "http://environment.data.gov.au/def/op"
+        }, 
+        {
+            "LOVcategory": "The Academy", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Software_architecture", 
+            "vocab": "http://vivoweb.org/ontology/core"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Computer_data", 
+            "vocab": "http://vocab.deri.ie/scovo"
+        }, 
+        {
+            "LOVcategory": "Metadata", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Structural_engineering", 
+            "vocab": "http://www.linkedmodel.org/schema/vaem"
+        }, 
+        {
+            "LOVcategory": "Support vocabularies", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/ontology/olo/core#"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Publishing", 
+            "vocab": "http://purl.org/net/opmv/ns#"
+        }, 
+        {
+            "LOVcategory": "Geography", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Semantics", 
+            "vocab": "http://linkedgeodata.org/ontology"
+        }, 
+        {
+            "LOVcategory": "W3C Recommendations", 
+            "skoscategory": "http://dbpedia.org/resource/Category:XML-based_standards", 
+            "vocab": "http://www.w3.org/2000/01/rdf-schema#"
+        }, 
+        {
+            "LOVcategory": "Social Semantic Desktop", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Data_management", 
+            "vocab": "http://www.semanticdesktop.org/ontologies/2007/03/22/nfo"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Computer_file_formats", 
+            "vocab": "http://purl.org/rss/1.0"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/net/wf-invocation"
+        }, 
+        {
+            "LOVcategory": "Multimedia", 
+            "skoscategory": [], 
+            "vocab": "http://contextus.net/ontology/ontomedia/ext/common/being#"
+        }, 
+        {
+            "LOVcategory": "Timeline, Calendar", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Concepts_in_physics", 
+            "vocab": "http://www.ontologydesignpatterns.org/cp/owl/timeinterval.owl"
+        }, 
+        {
+            "LOVcategory": "Tagging vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Mathematical_logic", 
+            "vocab": "http://rdfs.org/scot/ns#"
+        }, 
+        {
+            "LOVcategory": "FRBR, RDA, FRAD and related vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Geometry", 
+            "vocab": "http://rdvocab.info/Elements"
+        }, 
+        {
+            "LOVcategory": "Geometry", 
+            "skoscategory": [], 
+            "vocab": "http://www.opengis.net/ont/gml"
+        }, 
+        {
+            "LOVcategory": "Metadata", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Business_law", 
+            "vocab": "http://purl.org/LiMo/0.1#"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Philosophy_of_language", 
+            "vocab": "http://kdo.render-project.eu/kdo#"
+        }, 
+        {
+            "LOVcategory": "Support vocabularies", 
+            "skoscategory": [], 
+            "vocab": "http://www.essepuntato.it/2013/10/vagueness\ufeff"
+        }, 
+        {
+            "LOVcategory": "Events", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Semantic_Web", 
+            "vocab": "http://linkedevents.org/ontology/"
+        }, 
+        {
+            "LOVcategory": "Metadata", 
+            "skoscategory": "http://dbpedia.org/resource/Category:XML-based_standards", 
+            "vocab": "http://www.loc.gov/mads/rdf/v1"
+        }, 
+        {
+            "LOVcategory": "Metadata", 
+            "skoscategory": "http://dbpedia.org/resource/Category:XML-based_standards", 
+            "vocab": "http://purl.org/dc/terms/"
+        }, 
+        {
+            "LOVcategory": "Life Sciences", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Ontology", 
+            "vocab": "http://www.ics.forth.gr/isl/MarineTLO/v4/marinetlo.owl"
+        }, 
+        {
+            "LOVcategory": "Social organization", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Digital_art", 
+            "vocab": "http://purl.org/openorg/"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": "http://dbpedia.org/resource/Category:World_Wide_Web", 
+            "vocab": "http://www.w3.org/2007/05/powder-s"
+        }, 
+        {
+            "LOVcategory": "Social organization", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Sociology_index", 
+            "vocab": "http://purl.org/essglobal/vocab/v1.0/"
+        }, 
+        {
+            "LOVcategory": "Metadata", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Library_science", 
+            "vocab": "http://purl.org/net/ns/ontology-annot"
+        }, 
+        {
+            "LOVcategory": "Support vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Living_people", 
+            "vocab": "http://www.ontologydesignpatterns.org/cp/owl/informationrealization.owl"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Human%E2%80%93computer_interaction", 
+            "vocab": "http://ogp.me/ns"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": [], 
+            "vocab": "http://www.w3.org/2000/10/swap/pim/doc"
+        }, 
+        {
+            "LOVcategory": "Metadata", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/net/ns/ex"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Metadata", 
+            "vocab": "http://www.europeana.eu/schemas/edm/"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Semantic_Web", 
+            "vocab": "http://www.ontologydesignpatterns.org/ont/web/irw.owl"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Management", 
+            "vocab": "http://www.w3.org/2006/03/test-description"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Digital_art", 
+            "vocab": "http://vocab.deri.ie/odapp"
+        }, 
+        {
+            "LOVcategory": "RDF Data", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/twc/ontology/cdm.owl#"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Public_administration", 
+            "vocab": "http://reference.data.gov.uk/def/organogram"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Archival_science", 
+            "vocab": "http://data.archiveshub.ac.uk/def/"
+        }, 
+        {
+            "LOVcategory": "Geometry", 
+            "skoscategory": [], 
+            "vocab": "http://geovocab.org/spatial"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Research_and_development", 
+            "vocab": "http://rdf-vocabulary.ddialliance.org/discovery"
+        }, 
+        {
+            "LOVcategory": "Geography", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Lines_of_latitude", 
+            "vocab": "http://www.w3.org/2003/01/geo/wgs84_pos"
+        }, 
+        {
+            "LOVcategory": "Security", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Data_management", 
+            "vocab": "http://securitytoolbox.appspot.com/securityMain"
+        }, 
+        {
+            "LOVcategory": "Timeline, Calendar", 
+            "skoscategory": "http://dbpedia.org/resource/Category:International_nongovernmental_organizations", 
+            "vocab": "http://www.semanticdesktop.org/ontologies/2007/04/02/ncal"
+        }, 
+        {
+            "LOVcategory": "General and Upper Ontologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Ontology", 
+            "vocab": "http://umbel.org/umbel"
+        }, 
+        {
+            "LOVcategory": "People", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Radio_telescopes", 
+            "vocab": "http://www.w3.org/2000/10/swap/pim/contact"
+        }, 
+        {
+            "LOVcategory": "General and Upper Ontologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:British_websites", 
+            "vocab": "http://www.bbc.co.uk/ontologies/coreconcepts"
+        }, 
+        {
+            "LOVcategory": "Events", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Outlines", 
+            "vocab": "http://purl.org/theatre#"
+        }, 
+        {
+            "LOVcategory": "Tagging vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Semantic_Web", 
+            "vocab": "http://ns.inria.fr/nicetag/2010/09/09/voc"
+        }, 
+        {
+            "LOVcategory": "Tagging vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:XML-based_standards", 
+            "vocab": "http://commontag.org/ns#"
+        }, 
+        {
+            "LOVcategory": "Timeline, Calendar", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Infographics", 
+            "vocab": "http://purl.org/NET/c4dm/timeline.owl"
+        }, 
+        {
+            "LOVcategory": "Travel", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Road_transport", 
+            "vocab": "http://data.lirmm.fr/ontologies/passim"
+        }, 
+        {
+            "LOVcategory": "Metadata", 
+            "skoscategory": [], 
+            "vocab": "http://www.w3.org/ns/radion#"
+        }, 
+        {
+            "LOVcategory": "FRBR, RDA, FRAD and related vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Behavioural_sciences", 
+            "vocab": "http://metadataregistry.org/uri/schema/RDARelationshipsGR2"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Philosophy_of_science", 
+            "vocab": "http://linkedscience.org/lsc/ns#"
+        }, 
+        {
+            "LOVcategory": "Geometry", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Geometry", 
+            "vocab": "http://www.opengis.net/ont/sf"
+        }, 
+        {
+            "LOVcategory": "The Government", 
+            "skoscategory": "http://dbpedia.org/resource/Category:History_of_Ireland", 
+            "vocab": "http://reference.data.gov.uk/def/parliament"
+        }, 
+        {
+            "LOVcategory": "Life Sciences", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Classification_systems", 
+            "vocab": "http://purl.org/NET/biol/ns#"
+        }, 
+        {
+            "LOVcategory": "Industry", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Automobiles", 
+            "vocab": "http://purl.org/vvo/ns#"
+        }, 
+        {
+            "LOVcategory": "Semantic Publishing and Referencing Ontologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Library_science", 
+            "vocab": "http://purl.org/spar/c4o"
+        }, 
+        {
+            "LOVcategory": "FRBR, RDA, FRAD and related vocabularies", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/vocab/frbr/extended"
+        }, 
+        {
+            "LOVcategory": "Services", 
+            "skoscategory": "http://dbpedia.org/resource/Category:XML-based_standards", 
+            "vocab": "http://purl.org/ontology/ssso"
+        }, 
+        {
+            "LOVcategory": "Support vocabularies", 
+            "skoscategory": [], 
+            "vocab": "http://www.aktors.org/ontology/support"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Data_management", 
+            "vocab": "http://def.seegrid.csiro.au/isotc211/iso19115/2003/dataquality"
+        }, 
+        {
+            "LOVcategory": "Geography", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/ontology/places"
+        }, 
+        {
+            "LOVcategory": "Vocabularies, Languages and Terminologies", 
+            "skoscategory": [], 
+            "vocab": "http://www.lingvoj.org/ontology"
+        }, 
+        {
+            "LOVcategory": "Music and Sound", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Semantics", 
+            "vocab": "http://purl.org/ontology/af/"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Philosophy_of_science", 
+            "vocab": "http://www.w3.org/2005/Incubator/ssn/ssnx/ssn"
+        }, 
+        {
+            "LOVcategory": "Timeline, Calendar", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Scottish_inventions", 
+            "vocab": "http://www.w3.org/2006/timezone"
+        }, 
+        {
+            "LOVcategory": "Metadata", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Data_management", 
+            "vocab": "http://www.agls.gov.au/agls/terms"
+        }, 
+        {
+            "LOVcategory": "Events", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Ontology", 
+            "vocab": "http://semanticweb.cs.vu.nl/2009/11/sem/"
+        }, 
+        {
+            "LOVcategory": "Press and News", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Academic_publishing", 
+            "vocab": "http://www.bbc.co.uk/ontologies/bbc"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": [], 
+            "vocab": "http://www.loc.gov/premis/rdf/v1"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": "http://dbpedia.org/resource/Category:English-language_films", 
+            "vocab": "http://purl.org/net/provenance/types#"
+        }, 
+        {
+            "LOVcategory": "RDF Data", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Software_design_patterns", 
+            "vocab": "http://purl.org/ontology/prv/core#"
+        }, 
+        {
+            "LOVcategory": "People", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/wai#"
+        }, 
+        {
+            "LOVcategory": "RDF Data", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Philosophical_logic", 
+            "vocab": "http://semweb.mmlab.be/ns/apps4X"
+        }, 
+        {
+            "LOVcategory": "Services", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Information_technology_management", 
+            "vocab": "http://ontology.it/itsmo/v1"
+        }, 
+        {
+            "LOVcategory": "Timeline, Calendar", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Ontology", 
+            "vocab": "http://reference.data.gov.uk/def/intervals"
+        }, 
+        {
+            "LOVcategory": "Geography", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Language", 
+            "vocab": "http://schemas.talis.com/2005/address/schema"
+        }, 
+        {
+            "LOVcategory": "Timeline, Calendar", 
+            "skoscategory": [], 
+            "vocab": "http://www.w3.org/2006/time-entry"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Measurement", 
+            "vocab": "http://qudt.org/schema/qudt"
+        }, 
+        {
+            "LOVcategory": "PLM", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Systems_engineering", 
+            "vocab": "http://spi-fm.uca.es/spdef/models/deployment/swpm/1.0"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Classification_systems", 
+            "vocab": "http://data.press.net/ontology/classification/"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": "http://dbpedia.org/resource/Category:XML-based_standards", 
+            "vocab": "http://purl.org/net/nknouf/ns/bibtex"
+        }, 
+        {
+            "LOVcategory": "Recommandations", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Human%E2%80%93computer_interaction", 
+            "vocab": "http://purl.org/ontology/rec/core#"
+        }, 
+        {
+            "LOVcategory": "Life Sciences", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Cognition", 
+            "vocab": "http://rdf.geospecies.org/methods/observationMethod.rdf"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Metaphysics", 
+            "vocab": "http://purl.org/net/p-plan#"
+        }, 
+        {
+            "LOVcategory": "PLM", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Manufacturing", 
+            "vocab": "http://spi-fm.uca.es/spdef/models/genericTools/wikim/1.0"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": "http://dbpedia.org/resource/Category:ISO_standards", 
+            "vocab": "http://def.seegrid.csiro.au/isotc211/iso19156/2011/sampling"
+        }, 
+        {
+            "LOVcategory": "Vocabularies, Languages and Terminologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Belief", 
+            "vocab": "http://purl.org/linguistics/gold"
+        }, 
+        {
+            "LOVcategory": "Geometry", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Data_management", 
+            "vocab": "http://def.seegrid.csiro.au/isotc211/iso19115/2003/extent"
+        }, 
+        {
+            "LOVcategory": "Semantic Publishing and Referencing Ontologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Library_science", 
+            "vocab": "http://purl.org/spar/fabio/"
+        }, 
+        {
+            "LOVcategory": "Timeline, Calendar", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Semantics", 
+            "vocab": "http://contextus.net/ontology/ontomedia/misc/date#"
+        }, 
+        {
+            "LOVcategory": "E-Business", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/tio/ns#"
+        }, 
+        {
+            "LOVcategory": "Industry", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Consumer_electronics", 
+            "vocab": "http://www.ebusiness-unibw.org/ontologies/consumerelectronics/v1"
+        }, 
+        {
+            "LOVcategory": "Geography", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Data_management", 
+            "vocab": "http://def.seegrid.csiro.au/isotc211/iso19115/2003/metadata"
+        }, 
+        {
+            "LOVcategory": "Sustainability and environmental management", 
+            "skoscategory": [], 
+            "vocab": "http://rdf.geospecies.org/ont/geospecies"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Documents", 
+            "vocab": "http://www.w3.org/ns/auth/cert#"
+        }, 
+        {
+            "LOVcategory": "Food", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Whisky", 
+            "vocab": "http://vocab.org/whisky/terms"
+        }, 
+        {
+            "LOVcategory": "Geometry", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Types_of_country_subdivisions", 
+            "vocab": "http://geovocab.org/geometry"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Evaluation_methods", 
+            "vocab": "http://purl.org/linked-data/cube"
+        }, 
+        {
+            "LOVcategory": "FRBR, RDA, FRAD and related vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Systems_engineering", 
+            "vocab": "http://purl.org/vocab/frbr/core"
+        }, 
+        {
+            "LOVcategory": "Timeline, Calendar", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Geology", 
+            "vocab": "http://resource.geosciml.org/ontology/timescale/gts"
+        }, 
+        {
+            "LOVcategory": "People", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Biography", 
+            "vocab": "http://purl.org/vocab/bio/0.1/"
+        }, 
+        {
+            "LOVcategory": "Social organization", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Communication", 
+            "vocab": "http://vocab.resc.info/communication"
+        }, 
+        {
+            "LOVcategory": "FRBR, RDA, FRAD and related vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Periodic_table", 
+            "vocab": "http://rdvocab.info/ElementsGr3"
+        }, 
+        {
+            "LOVcategory": "FRBR, RDA, FRAD and related vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:2003_novels", 
+            "vocab": "http://rdvocab.info/RDARelationshipsWEMI"
+        }, 
+        {
+            "LOVcategory": "General and Upper Ontologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:XML-based_standards", 
+            "vocab": "http://purl.org/dc/dcam/"
+        }, 
+        {
+            "LOVcategory": "Support vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Identifiers", 
+            "vocab": "http://data.press.net/ontology/identifier/"
+        }, 
+        {
+            "LOVcategory": "Press and News", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Accounting_terminology", 
+            "vocab": "http://data.press.net/ontology/asset/"
+        }, 
+        {
+            "LOVcategory": "People", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Behavioural_sciences", 
+            "vocab": "http://d-nb.info/standards/elementset/agrelon.owl#"
+        }, 
+        {
+            "LOVcategory": "Health", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Ontology", 
+            "vocab": "http://www.w3.org/2001/sw/hcls/ns/transmed/"
+        }, 
+        {
+            "LOVcategory": "Security", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Mathematical_logic", 
+            "vocab": "http://securitytoolbox.appspot.com/securityAlgorithms#"
+        }, 
+        {
+            "LOVcategory": "Life Sciences", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Biology", 
+            "vocab": "http://purl.org/ontology/wo/"
+        }, 
+        {
+            "LOVcategory": "Press and News", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Concepts_in_metaphysics", 
+            "vocab": "http://data.press.net/ontology/stuff/"
+        }, 
+        {
+            "LOVcategory": "The Academy", 
+            "skoscategory": "http://dbpedia.org/resource/Category:2003_novels", 
+            "vocab": "http://courseware.rkbexplorer.com/ontologies/courseware"
+        }, 
+        {
+            "LOVcategory": "Food", 
+            "skoscategory": "http://dbpedia.org/resource/Category:ISO_standards", 
+            "vocab": "http://kmi.open.ac.uk/projects/smartproducts/ontologies/food.owl"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Digital_libraries", 
+            "vocab": "http://www.openarchives.org/ore/terms/"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": "http://dbpedia.org/resource/Category:XML-based_standards", 
+            "vocab": "http://ns.bergnet.org/tac/0.1/triple-access-control"
+        }, 
+        {
+            "LOVcategory": "Timeline, Calendar", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Calendars", 
+            "vocab": "http://www.w3.org/2002/12/cal/ical"
+        }, 
+        {
+            "LOVcategory": "Multimedia", 
+            "skoscategory": [], 
+            "vocab": "http://contextus.net/ontology/ontomedia/ext/common/trait#"
+        }, 
+        {
+            "LOVcategory": "Metadata", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Language", 
+            "vocab": "http://purl.org/vocab/vann/"
+        }, 
+        {
+            "LOVcategory": "Geography", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Former_monarchies_of_Europe", 
+            "vocab": "http://data.ordnancesurvey.co.uk/ontology/admingeo/"
+        }, 
+        {
+            "LOVcategory": "Social Semantic Desktop", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Free_software_projects", 
+            "vocab": "http://www.semanticdesktop.org/ontologies/2007/03/22/nco"
+        }, 
+        {
+            "LOVcategory": "PROTON Ontologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Digital_art", 
+            "vocab": "http://www.ontotext.com/proton/protonext"
+        }, 
+        {
+            "LOVcategory": "E-Business", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Technical_communication", 
+            "vocab": "http://purl.org/configurationontology"
+        }, 
+        {
+            "LOVcategory": "W3C Recommendations", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Library_science", 
+            "vocab": "http://www.w3.org/2004/02/skos/core"
+        }, 
+        {
+            "LOVcategory": "Geography", 
+            "skoscategory": "http://dbpedia.org/resource/Category:ISO_3166", 
+            "vocab": "http://www.daml.org/2001/09/countries/iso-3166-ont"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": [], 
+            "vocab": "http://inference-web.org/2.0/pml-provenance.owl"
+        }, 
+        {
+            "LOVcategory": "Security", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Network_protocols", 
+            "vocab": "http://securitytoolbox.appspot.com/stac"
+        }, 
+        {
+            "LOVcategory": "Semantic Publishing and Referencing Ontologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:2003_novels", 
+            "vocab": "http://purl.org/spar/pso"
+        }, 
+        {
+            "LOVcategory": "Multimedia", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/linkingyou/"
+        }, 
+        {
+            "LOVcategory": "Industry", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Heating,_ventilating,_and_air_conditioning", 
+            "vocab": "http://purl.org/opdm/refrigerator#"
+        }, 
+        {
+            "LOVcategory": "Multimedia", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Mass_media", 
+            "vocab": "http://www.w3.org/ns/ma-ont"
+        }, 
+        {
+            "LOVcategory": "Sustainability and environmental management", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Elementary_geometry", 
+            "vocab": "http://elite.polito.it/ontologies/dogont.owl"
+        }, 
+        {
+            "LOVcategory": "RDF Data", 
+            "skoscategory": [], 
+            "vocab": "http://www.w3.org/2004/03/trix/rdfg-1/"
+        }, 
+        {
+            "LOVcategory": "Industry", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Economics", 
+            "vocab": "http://purl.org/innovation/ns"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Management", 
+            "vocab": "http://rdf.myexperiment.org/ontologies/snarm/"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Semantics", 
+            "vocab": "http://purl.org/ontology/bibo/"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Human%E2%80%93computer_interaction", 
+            "vocab": "http://uri4uri.net/vocab"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Wireless_networking", 
+            "vocab": "http://spitfire-project.eu/ontology/ns"
+        }, 
+        {
+            "LOVcategory": "Image and Video", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Graphics_file_formats", 
+            "vocab": "http://www.w3.org/2003/12/exif/ns"
+        }, 
+        {
+            "LOVcategory": "RDF Data", 
+            "skoscategory": "http://dbpedia.org/resource/Category:XML-based_standards", 
+            "vocab": "http://spinrdf.org/spin"
+        }, 
+        {
+            "LOVcategory": "Events", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations", 
+            "vocab": "http://purl.org/ontology/stories/"
+        }, 
+        {
+            "LOVcategory": "Metadata", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Language", 
+            "vocab": "http://www.w3.org/2003/06/sw-vocab-status/ns"
+        }, 
+        {
+            "LOVcategory": "Social organization", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Living_people", 
+            "vocab": "http://rdfs.org/sioc/ns#"
+        }, 
+        {
+            "LOVcategory": "The Academy", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Academia", 
+            "vocab": "http://purl.org/vocab/aiiso/schema"
+        }, 
+        {
+            "LOVcategory": "FRBR, RDA, FRAD and related vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Formal_sciences", 
+            "vocab": "http://iflastandards.info/ns/fr/frad/"
+        }, 
+        {
+            "LOVcategory": "Food", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Food_and_drink", 
+            "vocab": "http://data.lirmm.fr/ontologies/food"
+        }, 
+        {
+            "LOVcategory": "Press and News", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/ontology/storyline"
+        }, 
+        {
+            "LOVcategory": "PROTON Ontologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Knowledge", 
+            "vocab": "http://www.ontotext.com/proton/protonkm"
+        }, 
+        {
+            "LOVcategory": "Industry", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Logistics", 
+            "vocab": "http://purl.org/coo/ns#"
+        }, 
+        {
+            "LOVcategory": "Image and Video", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/net/lio"
+        }, 
+        {
+            "LOVcategory": "Semantic Publishing and Referencing Ontologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Philosophy_of_science", 
+            "vocab": "http://purl.org/spar/pro"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Data_management", 
+            "vocab": "http://purl.org/cld/cdtype/"
+        }, 
+        {
+            "LOVcategory": "The Academy", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Writing", 
+            "vocab": "http://purl.org/spar/scoro/"
+        }, 
+        {
+            "LOVcategory": "Events", 
+            "skoscategory": [], 
+            "vocab": "http://www.ontologydesignpatterns.org/cp/owl/timeindexedsituation.owl"
+        }, 
+        {
+            "LOVcategory": "RDF Data", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Technical_communication", 
+            "vocab": "http://purl.org/linked-data/api/vocab#"
+        }, 
+        {
+            "LOVcategory": "Vocabularies, Languages and Terminologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Cybernetics", 
+            "vocab": "http://www.lingvoj.org/semio.rdf"
+        }, 
+        {
+            "LOVcategory": "The Academy", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Educational_psychology", 
+            "vocab": "http://linkedscience.org/teach/ns#"
+        }, 
+        {
+            "LOVcategory": "Timeline, Calendar", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Ontology", 
+            "vocab": "http://www.w3.org/2006/time"
+        }, 
+        {
+            "LOVcategory": "Vocabularies, Languages and Terminologies", 
+            "skoscategory": [], 
+            "vocab": "http://www.lexinfo.net/lmf"
+        }, 
+        {
+            "LOVcategory": "Services", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Semantics", 
+            "vocab": "http://purl.org/ontology/is/core#"
+        }, 
+        {
+            "LOVcategory": "Contracts", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations", 
+            "vocab": "http://loted.eu/ontology"
+        }, 
+        {
+            "LOVcategory": "Travel", 
+            "skoscategory": [], 
+            "vocab": "http://vocab.org/transit/terms/"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": [], 
+            "vocab": "http://labs.mondeca.com/vocab/endpointStatus"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": "http://dbpedia.org/resource/Category:XML-based_standards", 
+            "vocab": "http://www.w3.org/1999/xhtml/vocab"
+        }, 
+        {
+            "LOVcategory": "Semantic Publishing and Referencing Ontologies", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/spar/doco"
+        }, 
+        {
+            "LOVcategory": "Multimedia", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Sociology_index", 
+            "vocab": "http://contextus.net/ontology/ontomedia/core/expression#"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/linked-data/sdmx/2009/dimension"
+        }, 
+        {
+            "LOVcategory": "Multimedia", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Computing_terminology", 
+            "vocab": "http://purl.oclc.org/NET/mvco.owl"
+        }, 
+        {
+            "LOVcategory": "W3C Recommendations", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Communication_design", 
+            "vocab": "http://www.w3.org/ns/dcat"
+        }, 
+        {
+            "LOVcategory": "Multimedia", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Data_modeling", 
+            "vocab": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore"
+        }, 
+        {
+            "LOVcategory": "Metadata", 
+            "skoscategory": "http://dbpedia.org/resource/Category:International_nongovernmental_organizations", 
+            "vocab": "http://www.w3.org/2001/02pd/rec54#"
+        }, 
+        {
+            "LOVcategory": "Semantic Publishing and Referencing Ontologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Library_cataloging_and_classification", 
+            "vocab": "http://purl.org/spar/biro"
+        }, 
+        {
+            "LOVcategory": "Vocabularies, Languages and Terminologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Building_engineering", 
+            "vocab": "http://www.ontologydesignpatterns.org/ont/lmm/LMM_L1.owl"
+        }, 
+        {
+            "LOVcategory": "The Academy", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Ontology", 
+            "vocab": "http://rdf.myexperiment.org/ontologies/base/"
+        }, 
+        {
+            "LOVcategory": "People", 
+            "skoscategory": [], 
+            "vocab": "http://www.w3.org/ns/person"
+        }, 
+        {
+            "LOVcategory": "Life Sciences", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Knowledge_representation", 
+            "vocab": "http://purl.org/biotop/biotop.owl"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Computer_data", 
+            "vocab": "http://purl.org/ctic/dcat#"
+        }, 
+        {
+            "LOVcategory": "Life Sciences", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Computer_law", 
+            "vocab": "http://www.biopax.org/release/biopax-level3.owl"
+        }, 
+        {
+            "LOVcategory": "CSV Data", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Data_serialization_formats", 
+            "vocab": "http://vocab.deri.ie/scsv"
+        }, 
+        {
+            "LOVcategory": "Vocabularies, Languages and Terminologies", 
+            "skoscategory": [], 
+            "vocab": "http://rdf-vocabulary.ddialliance.org/xkos"
+        }, 
+        {
+            "LOVcategory": "FRBR, RDA, FRAD and related vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:English-language_films", 
+            "vocab": "http://rdvocab.info/uri/schema/FRBRentitiesRDA"
+        }, 
+        {
+            "LOVcategory": "FRBR, RDA, FRAD and related vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Russian_inventions", 
+            "vocab": "http://rdvocab.info/ElementsGr2"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": [], 
+            "vocab": "http://schemas.talis.com/2005/user/schema"
+        }, 
+        {
+            "LOVcategory": "W3C Recommendations", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Systems", 
+            "vocab": "http://www.w3.org/ns/org#"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Semantic_Web", 
+            "vocab": "http://www.w3.org/ns/oa#"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": [], 
+            "vocab": "http://privatealpha.com/ontology/certification/1#"
+        }, 
+        {
+            "LOVcategory": "E-Business", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Linguistics", 
+            "vocab": "http://purl.org/goodrelations/v1"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Technical_communication", 
+            "vocab": "http://def.seegrid.csiro.au/isotc211/iso19103/2005/basic"
+        }, 
+        {
+            "LOVcategory": "Security", 
+            "skoscategory": "http://dbpedia.org/resource/Category:American_inventions", 
+            "vocab": "http://www.semanticweb.org/ontologies/2008/11/OntologySecurity.owl"
+        }, 
+        {
+            "LOVcategory": "Vocabularies, Languages and Terminologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Parts_of_speech", 
+            "vocab": "http://purl.org/net/vocab/2004/03/label"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Television_terminology", 
+            "vocab": "http://www.bbc.co.uk/ontologies/creativework"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Psychological_attitude", 
+            "vocab": "http://vocab.deri.ie/ppo"
+        }, 
+        {
+            "LOVcategory": "Sustainability and environmental management", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Community_organizing", 
+            "vocab": "http://www.observedchange.com/moac/ns#"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": "http://dbpedia.org/resource/Category:International_nongovernmental_organizations", 
+            "vocab": "http://lod.xdams.org/reload/oad"
+        }, 
+        {
+            "LOVcategory": "Tagging vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Taxonomy", 
+            "vocab": "http://purl.org/muto/core"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": [], 
+            "vocab": "http://purl.oclc.org/NET/ssnx/qu/qu"
+        }, 
+        {
+            "LOVcategory": "Support vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Ontology", 
+            "vocab": "http://www.samos.gr/ontologies/helpdeskOnto.owl"
+        }, 
+        {
+            "LOVcategory": "Support vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Formal_sciences", 
+            "vocab": "http://purl.org/co"
+        }, 
+        {
+            "LOVcategory": "Life Sciences", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Management", 
+            "vocab": "http://semanticscience.org/ontology/sio.owl"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Computer_graphics", 
+            "vocab": "http://lsdis.cs.uga.edu/projects/semdis/opus#"
+        }, 
+        {
+            "LOVcategory": "Support vocabularies", 
+            "skoscategory": [], 
+            "vocab": "http://www.w3.org/ns/ui"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Black-and-white_films", 
+            "vocab": "http://openprovenance.org/model/opmo"
+        }, 
+        {
+            "LOVcategory": "Geography", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Cartography", 
+            "vocab": "http://www.ordnancesurvey.co.uk/ontology/Topography/v0.1/Topography.owl"
+        }, 
+        {
+            "LOVcategory": "The Government", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Europe", 
+            "vocab": "http://reference.data.gov.uk/def/central-government"
+        }, 
+        {
+            "LOVcategory": "RDF Data", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/twc/vocab/conversion/"
+        }, 
+        {
+            "LOVcategory": "Timeline, Calendar", 
+            "skoscategory": "http://dbpedia.org/resource/Category:UK_Singles_Chart_number-one_singles", 
+            "vocab": "http://resource.geosciml.org/ontology/timescale/thors"
+        }, 
+        {
+            "LOVcategory": "PROTON Ontologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Metaphysics", 
+            "vocab": "http://www.ontotext.com/proton/protonsys"
+        }, 
+        {
+            "LOVcategory": "Vocabularies, Languages and Terminologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Library_science", 
+            "vocab": "http://zbw.eu/namespaces/zbw-extensions"
+        }, 
+        {
+            "LOVcategory": "Support vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Data_management", 
+            "vocab": "http://www.w3.org/2006/gen/ont"
+        }, 
+        {
+            "LOVcategory": "Semantic Publishing and Referencing Ontologies", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/spar/pwo"
+        }, 
+        {
+            "LOVcategory": "Vocabularies, Languages and Terminologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Linguistics", 
+            "vocab": "http://lemon-model.net/lemon"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Evaluation_methods", 
+            "vocab": "http://rdfunit.aksw.org/ns/core#"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": "http://dbpedia.org/resource/Category:XML-based_standards", 
+            "vocab": "http://vocab.deri.ie/raul"
+        }, 
+        {
+            "LOVcategory": "Contracts", 
+            "skoscategory": [], 
+            "vocab": "http://reference.data.gov.uk/def/payment#"
+        }, 
+        {
+            "LOVcategory": "Geography", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Cartography", 
+            "vocab": "http://data.ordnancesurvey.co.uk/ontology/50kGazetteer/"
+        }, 
+        {
+            "LOVcategory": "RDF Data", 
+            "skoscategory": [], 
+            "vocab": "http://vocab.deri.ie/dady"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Educational_psychology", 
+            "vocab": "http://d-nb.info/standards/elementset/gnd#"
+        }, 
+        {
+            "LOVcategory": "People", 
+            "skoscategory": [], 
+            "vocab": "http://online-presence.net/opo/ns#"
+        }, 
+        {
+            "LOVcategory": "Life Sciences", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Knowledge_representation", 
+            "vocab": "http://purl.uniprot.org/core/"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": [], 
+            "vocab": "http://voag.linkedmodel.org/schema/voag"
+        }, 
+        {
+            "LOVcategory": "Metadata", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Philosophers_of_language", 
+            "vocab": "http://www.lingvoj.org/olca"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": [], 
+            "vocab": "http://def.seegrid.csiro.au/isotc211/iso19150/-2/2012/basic"
+        }, 
+        {
+            "LOVcategory": "Social organization", 
+            "skoscategory": "http://dbpedia.org/resource/Category:XML-based_standards", 
+            "vocab": "http://data.semanticweb.org/ns/swc/ontology"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/ontology/daia"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Perception", 
+            "vocab": "http://purl.org/saws/ontology"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": [], 
+            "vocab": "http://www.w3.org/2011/http"
+        }, 
+        {
+            "LOVcategory": "Semantic Publishing and Referencing Ontologies", 
+            "skoscategory": [], 
+            "vocab": "http://www.essepuntato.it/2013/03/cito-functions"
+        }, 
+        {
+            "LOVcategory": "Sustainability and environmental management", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Semantics", 
+            "vocab": "http://paul.staroch.name/thesis/SmartHomeWeather.owl#"
+        }, 
+        {
+            "LOVcategory": "Food", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Food_and_drink", 
+            "vocab": "http://rdfs.co/bevon/"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Linguistics", 
+            "vocab": "http://ns.inria.fr/prissma/v1"
+        }, 
+        {
+            "LOVcategory": "Tagging vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Semantics", 
+            "vocab": "http://data.press.net/ontology/tag/"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Management", 
+            "vocab": "http://www.w3.org/ns/ldp#"
+        }, 
+        {
+            "LOVcategory": "Social organization", 
+            "skoscategory": "http://dbpedia.org/resource/Category:International_organizations_of_Europe", 
+            "vocab": "http://usefulinc.com/ns/doap#"
+        }, 
+        {
+            "LOVcategory": "The Government", 
+            "skoscategory": [], 
+            "vocab": "http://vocab.data.gov/gd"
+        }, 
+        {
+            "LOVcategory": "Vocabularies, Languages and Terminologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:XML-based_standards", 
+            "vocab": "http://id.loc.gov/vocabulary/relators"
+        }, 
+        {
+            "LOVcategory": "Social organization", 
+            "skoscategory": "http://dbpedia.org/resource/Category:1889_births", 
+            "vocab": "http://www.aktors.org/ontology/portal"
+        }, 
+        {
+            "LOVcategory": "Metadata", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Philosophical_logic", 
+            "vocab": "http://www.w3.org/ns/adms"
+        }, 
+        {
+            "LOVcategory": "Events", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Philosophy_of_science", 
+            "vocab": "http://www.observedchange.com/tisc/ns#"
+        }, 
+        {
+            "LOVcategory": "Tagging vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Human%E2%80%93computer_interaction", 
+            "vocab": "http://www.holygoat.co.uk/owl/redwood/0.1/tags/"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Management", 
+            "vocab": "http://data.lirmm.fr/ontologies/vdpp"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Evaluation_methods", 
+            "vocab": "http://purl.org/limo-ontology/limo/"
+        }, 
+        {
+            "LOVcategory": "Support vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Transitivity_and_valency", 
+            "vocab": "http://www.ontologydesignpatterns.org/cp/owl/sequence.owl"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Human%E2%80%93computer_interaction", 
+            "vocab": "http://purl.org/ontology/wo/core#"
+        }, 
+        {
+            "LOVcategory": "Social Semantic Desktop", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Chemistry", 
+            "vocab": "http://www.semanticdesktop.org/ontologies/2007/01/19/nie"
+        }, 
+        {
+            "LOVcategory": "Life Sciences", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Plant_taxonomy", 
+            "vocab": "http://lod.taxonconcept.org/ontology/txn.owl"
+        }, 
+        {
+            "LOVcategory": "Social organization", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Social_psychology", 
+            "vocab": "http://vocab.deri.ie/br"
+        }, 
+        {
+            "LOVcategory": "PLM", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Investment", 
+            "vocab": "http://open-services.net/ns/asset#"
+        }, 
+        {
+            "LOVcategory": "RDF Data", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/dsnotify/vocab/eventset/"
+        }, 
+        {
+            "LOVcategory": "Metadata", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Rhetoric", 
+            "vocab": "http://salt.semanticauthoring.org/ontologies/sao"
+        }, 
+        {
+            "LOVcategory": "RDF Data", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Data_types", 
+            "vocab": "http://www.linkedmodel.org/schema/dtype"
+        }, 
+        {
+            "LOVcategory": "FRBR, RDA, FRAD and related vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Systems_engineering", 
+            "vocab": "http://iflastandards.info/ns/fr/frbr/frbrer/"
+        }, 
+        {
+            "LOVcategory": "The Academy", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Science", 
+            "vocab": "http://lod.taxonconcept.org/ontology/sci_people.owl"
+        }, 
+        {
+            "LOVcategory": "Multimedia", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Concepts_in_ethics", 
+            "vocab": "http://rhizomik.net/ontologies/copyrightonto.owl"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Belief", 
+            "vocab": "http://vocab.deri.ie/tao"
+        }, 
+        {
+            "LOVcategory": "Semantic Publishing and Referencing Ontologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Philosophy_of_mathematics", 
+            "vocab": "http://purl.org/spar/datacite"
+        }, 
+        {
+            "LOVcategory": "General and Upper Ontologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Companies_listed_on_the_New_York_Stock_Exchange", 
+            "vocab": "http://schema.org/"
+        }, 
+        {
+            "LOVcategory": "RDF Data", 
+            "skoscategory": [], 
+            "vocab": "http://www.w3.org/2011/content"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Metaphysics", 
+            "vocab": "http://purl.org/lobid/lv"
+        }, 
+        {
+            "LOVcategory": "General and Upper Ontologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Data_management", 
+            "vocab": "http://www.ontologydesignpatterns.org/ont/dul/IOLite.owl"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Measurement", 
+            "vocab": "http://www.telegraphis.net/ontology/measurement/measurement#"
+        }, 
+        {
+            "LOVcategory": "Support vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Cognition", 
+            "vocab": "http://purl.org/ontology/similarity/"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Educational_technology", 
+            "vocab": "http://purl.org/ontology/co/core#"
+        }, 
+        {
+            "LOVcategory": "Image and Video", 
+            "skoscategory": "http://dbpedia.org/resource/Category:XML-based_standards", 
+            "vocab": "http://simile.mit.edu/2003/10/ontologies/vraCore3#"
+        }, 
+        {
+            "LOVcategory": "The Academy", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Semantic_Web", 
+            "vocab": "http://swrc.ontoware.org/ontology-07"
+        }, 
+        {
+            "LOVcategory": "General and Upper Ontologies", 
+            "skoscategory": [], 
+            "vocab": "http://vocab.data.gov/def/drm"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Communication_design", 
+            "vocab": "http://purl.org/ontology/dvia"
+        }, 
+        {
+            "LOVcategory": "E-Business", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Cloud_applications", 
+            "vocab": "http://purl.org/uco/ns#"
+        }, 
+        {
+            "LOVcategory": "Support vocabularies", 
+            "skoscategory": [], 
+            "vocab": "https://decision-ontology.googlecode.com/svn/trunk/decision.owl"
+        }, 
+        {
+            "LOVcategory": "Metadata", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Rhetoric", 
+            "vocab": "http://salt.semanticauthoring.org/ontologies/sro"
+        }, 
+        {
+            "LOVcategory": "RDF Data", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Year_of_disestablishment_missing", 
+            "vocab": "http://www.w3.org/ns/hydra/core"
+        }, 
+        {
+            "LOVcategory": "Events", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Data_types", 
+            "vocab": "http://purl.org/NET/c4dm/event.owl"
+        }, 
+        {
+            "LOVcategory": "Services", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Historical_documents", 
+            "vocab": "http://purl.org/ontology/dso"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/library/"
+        }, 
+        {
+            "LOVcategory": "Press and News", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Book_publishing_companies_of_the_United_Kingdom", 
+            "vocab": "http://ns.nature.com/terms/"
+        }, 
+        {
+            "LOVcategory": "Social organization", 
+            "skoscategory": [], 
+            "vocab": "http://rdf.muninn-project.org/ontologies/military"
+        }, 
+        {
+            "LOVcategory": "RDF Data", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Data_management", 
+            "vocab": "http://vocab.deri.ie/cogs"
+        }, 
+        {
+            "LOVcategory": "Geography", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Cartography", 
+            "vocab": "http://def.seegrid.csiro.au/isotc211/iso19156/2011/observation"
+        }, 
+        {
+            "LOVcategory": "Geography", 
+            "skoscategory": [], 
+            "vocab": "http://contextus.net/ontology/ontomedia/core/space#"
+        }, 
+        {
+            "LOVcategory": "General and Upper Ontologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Social_philosophy", 
+            "vocab": "http://www.cidoc-crm.org/cidoc-crm/"
+        }, 
+        {
+            "LOVcategory": "Music and Sound", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Semantics", 
+            "vocab": "http://purl.org/ontology/pbo/core#"
+        }, 
+        {
+            "LOVcategory": "Geometry", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Topology", 
+            "vocab": "http://def.seegrid.csiro.au/isotc211/iso19107/2003/geometry"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Fantasy_books_by_series", 
+            "vocab": "http://www.essepuntato.it/2008/12/pattern"
+        }, 
+        {
+            "LOVcategory": "Geometry", 
+            "skoscategory": [], 
+            "vocab": "http://data.ordnancesurvey.co.uk/ontology/spatialrelations/"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": "http://dbpedia.org/resource/Category:American_rock_music_groups", 
+            "vocab": "http://bblfish.net/work/atom-owl/2006-06-06/"
+        }, 
+        {
+            "LOVcategory": "E-Business", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Marketing", 
+            "vocab": "http://purl.org/vso/ns"
+        }, 
+        {
+            "LOVcategory": "People", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Management", 
+            "vocab": "http://www.w3.org/2006/vcard/ns"
+        }, 
+        {
+            "LOVcategory": "Food", 
+            "skoscategory": "http://dbpedia.org/resource/Category:XML-based_standards", 
+            "vocab": "http://www.w3.org/TR/2003/PR-owl-guide-20031215/food"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Abstract_algebra", 
+            "vocab": "http://salt.semanticauthoring.org/ontologies/sdo"
+        }, 
+        {
+            "LOVcategory": "W3C Recommendations", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Artificial_intelligence", 
+            "vocab": "http://www.w3.org/ns/sparql-service-description"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": [], 
+            "vocab": "http://schemas.talis.com/2005/dir/schema"
+        }, 
+        {
+            "LOVcategory": "Sustainability and environmental management", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Musical_groups_established_in_1978", 
+            "vocab": "http://reegle.info/schema"
+        }, 
+        {
+            "LOVcategory": "Multimedia", 
+            "skoscategory": "http://dbpedia.org/resource/Category:XML-based_standards", 
+            "vocab": "http://purl.org/media"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": [], 
+            "vocab": "http://www.rkbexplorer.com/ontologies/acm"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": "http://dbpedia.org/resource/Category:International_organizations_of_Europe", 
+            "vocab": "http://xmlns.com/wot/0.1/"
+        }, 
+        {
+            "LOVcategory": "Life Sciences", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Plant_taxonomy", 
+            "vocab": "http://purl.org/NET/biol/botany#"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Charities_based_in_London", 
+            "vocab": "http://www.bl.uk/schemas/bibliographic/blterms"
+        }, 
+        {
+            "LOVcategory": "Semantic Publishing and Referencing Ontologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Bibliography", 
+            "vocab": "http://purl.org/spar/cito/"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": "http://dbpedia.org/resource/Category:.NET_framework", 
+            "vocab": "http://purl.org/net/wf-motifs"
+        }, 
+        {
+            "LOVcategory": "Industry", 
+            "skoscategory": [], 
+            "vocab": "http://owlrep.eu01.aws.af.cm/fridge"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Servers_(computing)", 
+            "vocab": "http://www.wsmo.org/ns/wsmo-lite#"
+        }, 
+        {
+            "LOVcategory": "The Academy", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Project_management_software", 
+            "vocab": "http://purl.org/cerif/frapo/"
+        }, 
+        {
+            "LOVcategory": "Life Sciences", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Cloud_computing", 
+            "vocab": "http://purl.org/biodiversity/taxon/"
+        }, 
+        {
+            "LOVcategory": "RDF Data", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Computer_file_formats", 
+            "vocab": "http://semweb.mmlab.be/ns/odapps"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": "http://dbpedia.org/resource/Category:XML-based_standards", 
+            "vocab": "http://purl.org/eis/vocab/daq#"
+        }, 
+        {
+            "LOVcategory": "Social organization", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Social_networking_services", 
+            "vocab": "http://rdfs.org/sioc/types#"
+        }, 
+        {
+            "LOVcategory": "People", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Human%E2%80%93computer_interaction", 
+            "vocab": "http://purl.org/ontology/cco/core#"
+        }, 
+        {
+            "LOVcategory": "RDF Data", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Declarative_programming_languages", 
+            "vocab": "http://www.wiwiss.fu-berlin.de/suhl/bizer/D2RQ/0.1"
+        }, 
+        {
+            "LOVcategory": "Tagging vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Human%E2%80%93computer_interaction", 
+            "vocab": "http://moat-project.org/ns#"
+        }, 
+        {
+            "LOVcategory": "Social organization", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Ontology", 
+            "vocab": "http://sw-portal.deri.org/ontologies/swportal"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Data_management", 
+            "vocab": "http://www.bbc.co.uk/ontologies/provenance"
+        }, 
+        {
+            "LOVcategory": "Events", 
+            "skoscategory": "http://dbpedia.org/resource/Category:BBC_Sport", 
+            "vocab": "http://www.bbc.co.uk/ontologies/sport"
+        }, 
+        {
+            "LOVcategory": "Metadata", 
+            "skoscategory": "http://dbpedia.org/resource/Category:XML-based_standards", 
+            "vocab": "http://ndl.go.jp/dcndl/terms/"
+        }, 
+        {
+            "LOVcategory": "RDF Data", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Philatelic_terminology", 
+            "vocab": "http://www.w3.org/2004/09/fresnel"
+        }, 
+        {
+            "LOVcategory": "Social Semantic Desktop", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Library_science", 
+            "vocab": "http://www.semanticdesktop.org/ontologies/2007/08/15/nao"
+        }, 
+        {
+            "LOVcategory": "Music and Sound", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/NET/c4dm/keys.owl"
+        }, 
+        {
+            "LOVcategory": "Social organization", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Types_of_organization", 
+            "vocab": "http://www.w3.org/ns/regorg"
+        }, 
+        {
+            "LOVcategory": "Metadata", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Language", 
+            "vocab": "http://purl.org/vocommons/voaf"
+        }, 
+        {
+            "LOVcategory": "Food", 
+            "skoscategory": "http://dbpedia.org/resource/Category:XML-based_standards", 
+            "vocab": "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine"
+        }, 
+        {
+            "LOVcategory": "Vocabularies, Languages and Terminologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Rhetoric", 
+            "vocab": "http://lexvo.org/ontology"
+        }, 
+        {
+            "LOVcategory": "Vocabularies, Languages and Terminologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Ontology", 
+            "vocab": "http://www.ontologydesignpatterns.org/ont/lmm/LMM_L2.owl"
+        }, 
+        {
+            "LOVcategory": "General and Upper Ontologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:ISO_standards", 
+            "vocab": "http://purl.org/dc/dcmitype/"
+        }, 
+        {
+            "LOVcategory": "Metadata", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Design", 
+            "vocab": "http://www.ontologydesignpatterns.org/schemas/cpannotationschema.owl"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": "http://dbpedia.org/resource/Category:World_Wide_Web_Consortium_standards", 
+            "vocab": "http://www.w3.org/ns/earl"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Data_management", 
+            "vocab": "http://schema.theodi.org/odrs"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Internet_terminology", 
+            "vocab": "http://vocab.deri.ie/search"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Packaging", 
+            "vocab": "http://ns.inria.fr/s4ac/v2"
+        }, 
+        {
+            "LOVcategory": "RDF Data", 
+            "skoscategory": "http://dbpedia.org/resource/Category:XML-based_standards", 
+            "vocab": "http://spinrdf.org/sp"
+        }, 
+        {
+            "LOVcategory": "PLM", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Technical_communication", 
+            "vocab": "http://purl.org/vocab/lifecycle/schema"
+        }, 
+        {
+            "LOVcategory": "People", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Science", 
+            "vocab": "http://www.kanzaki.com/ns/whois"
+        }, 
+        {
+            "LOVcategory": "E-Business", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/acco/ns"
+        }, 
+        {
+            "LOVcategory": "Geometry", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Northern_Europe", 
+            "vocab": "http://data.ordnancesurvey.co.uk/ontology/geometry/"
+        }, 
+        {
+            "LOVcategory": "Metadata", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Data_management", 
+            "vocab": "http://purl.org/dc/elements/1.1/"
+        }, 
+        {
+            "LOVcategory": "Vocabularies, Languages and Terminologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Library_science", 
+            "vocab": "http://www.ontologydesignpatterns.org/ont/dul/ontopic.owl"
+        }, 
+        {
+            "LOVcategory": "Metadata", 
+            "skoscategory": "http://dbpedia.org/resource/Category:XML-based_standards", 
+            "vocab": "http://vocab.deri.ie/void"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Measurement", 
+            "vocab": "http://www.telegraphis.net/ontology/measurement/quantity#"
+        }, 
+        {
+            "LOVcategory": "Support vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Ontology", 
+            "vocab": "http://www.gsi.dit.upm.es/ontologies/marl/ns"
+        }, 
+        {
+            "LOVcategory": "Contracts", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Procurement", 
+            "vocab": "http://vocab.deri.ie/c4n"
+        }, 
+        {
+            "LOVcategory": "General and Upper Ontologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Educational_technology", 
+            "vocab": "http://purl.org/twc/ontologies/cmo.owl"
+        }, 
+        {
+            "LOVcategory": "Support vocabularies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Software_design_patterns", 
+            "vocab": "http://www.ontologydesignpatterns.org/cp/owl/participation.owl"
+        }, 
+        {
+            "LOVcategory": "Social organization", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Ontology", 
+            "vocab": "http://vocab.deri.ie/pdo"
+        }, 
+        {
+            "LOVcategory": "Events", 
+            "skoscategory": [], 
+            "vocab": "http://www.ontologydesignpatterns.org/cp/owl/situation.owl"
+        }, 
+        {
+            "LOVcategory": "Recommandations", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Library_science", 
+            "vocab": "http://purl.org/stuff/rev#"
+        }, 
+        {
+            "LOVcategory": "General and Upper Ontologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Ontology", 
+            "vocab": "http://inference-web.org/2.0/ds.owl"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": "http://dbpedia.org/resource/Category:ISO_standards", 
+            "vocab": "http://www.opmw.org/ontology/"
+        }, 
+        {
+            "LOVcategory": "Vocabularies, Languages and Terminologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Programming_language_topics", 
+            "vocab": "http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#"
+        }, 
+        {
+            "LOVcategory": "Archives, Catalogs, Classification systems", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Character_encoding", 
+            "vocab": "http://archivi.ibc.regione.emilia-romagna.it/ontology/eac-cpf/"
+        }, 
+        {
+            "LOVcategory": "Services", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Semantics", 
+            "vocab": "http://purl.org/ontology/service"
+        }, 
+        {
+            "LOVcategory": "Timeline, Calendar", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Cartography", 
+            "vocab": "http://def.seegrid.csiro.au/isotc211/iso19108/2002/temporal"
+        }, 
+        {
+            "LOVcategory": "People", 
+            "skoscategory": [], 
+            "vocab": "http://purl.org/gen/0.1#"
+        }, 
+        {
+            "LOVcategory": "Music and Sound", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Performing_arts", 
+            "vocab": "http://purl.org/ontology/chord/"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Cryptography", 
+            "vocab": "http://www.w3.org/ns/auth/acl"
+        }, 
+        {
+            "LOVcategory": "People", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Measurement", 
+            "vocab": "http://rdf.muninn-project.org/ontologies/appearances"
+        }, 
+        {
+            "LOVcategory": "W3C Recommendations", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Servers_(computing)", 
+            "vocab": "http://www.w3.org/ns/prov#"
+        }, 
+        {
+            "LOVcategory": "Quality", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Systems_engineering", 
+            "vocab": "http://purl.org/dqm-vocabulary/v1/dqm"
+        }, 
+        {
+            "LOVcategory": "People", 
+            "skoscategory": [], 
+            "vocab": "http://dev.poderopedia.com/vocab/schema"
+        }, 
+        {
+            "LOVcategory": "Industry", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Programming_paradigms", 
+            "vocab": "http://vocab.deri.ie/csp"
+        }, 
+        {
+            "LOVcategory": "Protocols", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Philosophy_of_science", 
+            "vocab": "http://iserve.kmi.open.ac.uk/ns/msm"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Measurement", 
+            "vocab": "http://purl.oclc.org/NET/muo/muo#"
+        }, 
+        {
+            "LOVcategory": "Methods and Protocols, Units, Measures", 
+            "skoscategory": [], 
+            "vocab": "http://vocab.sti2.at/vrank"
+        }, 
+        {
+            "LOVcategory": "Semantic Publishing and Referencing Ontologies", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Writing", 
+            "vocab": "http://purl.org/spar/deo"
+        }, 
+        {
+            "LOVcategory": "Timeline, Calendar", 
+            "skoscategory": [], 
+            "vocab": "http://www.essepuntato.it/2012/04/tvc"
+        }, 
+        {
+            "LOVcategory": "Contracts", 
+            "skoscategory": "http://dbpedia.org/resource/Category:Social_inequality", 
+            "vocab": "http://purl.oclc.org/NET/ldr/ns#"
+        }
+    ]
+}
