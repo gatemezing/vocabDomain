@@ -1,0 +1,437 @@
+@relation Lov_dataset
+
+@attribute alchemy_taxonomies string
+@attribute alchemy_taxonomies2 string
+@attribute alchemy_taxonomies3 string
+@attribute alchemy_concepts string
+@attribute alchemy_concepts2 string
+@attribute alchemy_concepts3 string
+@attribute lov_category {'Archives, Catalogs, Classification systems','Methods and Protocols, Units, Measures',Protocols,Quality,Metadata,'RDF Data','Support vocabularies','Vocabularies, Languages and Terminologies',Geography,People,'Social organization','Timeline, Calendar','General and Upper Ontologies','Semantic Publishing and Referencing Ontologies','FRBR, RDA, FRAD and related vocabularies','Life Sciences',Multimedia,Events,Geometry,'The Academy','Tagging vocabularies','W3C Recommendations',E-Business,Industry,Food,'Press and News',PLM,'Music and Sound',Contracts,Services,'Social Semantic Desktop','Sustainability and environmental management',Security,'The Government','PROTON Ontologies','Image and Video',Travel,Recommandations,Health,'CSV Data',Games}
+
+@data
+'/business and industrial','/hobbies and interests/reading',/society,Marketing,'Electronic commerce',Business-to-business,E-Business
+'/art and entertainment/music','/art and entertainment/music/music genres/classical music','/art and entertainment/music/music genres/folk music','Semantic Web',Semantics,Ontology,'Music and Sound'
+'/art and entertainment/music/musical instruments','/home and garden/home improvement and repair/locks and locksmiths','/art and entertainment/music/music genres/classical music',Music,Opera,'Performing arts',Events
+'/technology and computing/software/databases','/technology and computing/programming languages/java','','Abstract syntax tree','Programming language','',Protocols
+'/law, govt and politics','/law, govt and politics/government','/business and industrial/construction','Offer and acceptance','','',Contracts
+/science/geography,'','',Pytheas,'Great Britain','Kingdom of Great Britain',Geography
+'/health and fitness/nutrition','/business and industrial/chemicals industry/cleaning agents','/automotive and vehicles/boats and watercraft','','','','FRBR, RDA, FRAD and related vocabularies'
+/society/dating,'/society/social institution/marriage','/hobbies and interests/reading',Relationship,'Interpersonal relationship','',People
+'/technology and computing/programming languages/java','/technology and computing/programming languages/javascript','','Web 2.0','Web service','Semantic Web',Protocols
+'/law, govt and politics/government/state and local government','/law, govt and politics/government','/technology and computing/software/databases',Organization,Government,Management,'Social organization'
+'/technology and computing/software/databases','/technology and computing','/science/computer science/artificial intelligence',Semantics,'Semantic Web',Linguistics,'Vocabularies, Languages and Terminologies'
+'/technology and computing/hardware/computer components/chips and processors','/education/english as a second language','/technology and computing/software',Internet,Microsoft,Topology,PLM
+'/technology and computing/software/databases','/education/english as a second language','/family and parenting/children','World Wide Web','Semantic Web','Tim Berners-Lee',Quality
+'/education/adult education','/art and entertainment/radio/radio programs','/art and entertainment/radio',Vocabulary,'','',Multimedia
+'/science/ecology/waste management/recycling','/science/social science/linguistics','/society/social institution/marriage','','','','Support vocabularies'
+'/technology and computing/hardware/computer components/chips and processors','/technology and computing/software/databases','/education/english as a second language','','','','RDF Data'
+'/technology and computing/software/databases',/science/geography,/science/geology,Geography,'Geographic information system','Spatial analysis',Geography
+'/business and industrial/business operations/business plans','/technology and computing/software/databases','/technology and computing','Resource Description Framework',Metadata,'','Archives, Catalogs, Classification systems'
+'/technology and computing/hardware/computer networking/wireless technology','/technology and computing/networking/vpn and remote access','/technology and computing/data centers','','','',Security
+'/technology and computing','/education/english as a second language','/technology and computing/consumer electronics/camera and photo equipment/cameras and camcorders/cameras',Hyperlink,'World Wide Web',Microsoft,People
+/science/mathematics/algebra,'/technology and computing/internet technology/web search/people search','/hobbies and interests/reading',Lexicography,'','','RDF Data'
+'/style and fashion/jewelry/earrings','/style and fashion/jewelry/bracelets','/style and fashion/jewelry/necklaces','Web 2.0','User-generated content','Maurice White','Support vocabularies'
+'/business and industrial/biomedical','','',Metaphysics,Ontology,Existence,Geography
+'/technology and computing/programming languages/java','/technology and computing/software','','','','','Vocabularies, Languages and Terminologies'
+'/technology and computing/software','/science/computer science/software engineering','/education/english as a second language','Project management',Management,'Systems engineering',PLM
+/science/mathematics/geometry,'/education/english as a second language','/hobbies and interests/reading','Infrastructure for Spatial Information in the European Community',INSPIRE,'',Geography
+/society/welfare/healthcare,'/hobbies and interests/getting published/freelance writing','/technology and computing/software/databases','','','',Health
+'','','',Ontology,'Semantic Web',WordNet,'Archives, Catalogs, Classification systems'
+'/law, govt and politics/government/parliament','/technology and computing/software/databases','/technology and computing/programming languages/java','Lawrence Lessig','','',Metadata
+'/health and fitness/therapy/physical therapy','/technology and computing/software/databases','/home and garden/home furnishings/sofas and chairs','Philosophy of life',Writing,'','CSV Data'
+'/health and fitness/disease/autism and pdd','/society/crime/personal offense/human trafficking','/science/social science/history','Context awareness','','',People
+'/technology and computing/software/databases','/technology and computing','/food and drink','Web Ontology Language','Semantic Web',Time,Quality
+'/education/alumni and reunions','/sports/hunting and shooting','/business and industrial/energy/renewable energy/wind energy',Ontology,'Music genre',Concept,'Support vocabularies'
+'','','','','','','General and Upper Ontologies'
+/shopping/resources/coupons,'/automotive and vehicles/vehicle brands/fiat','/technology and computing/consumer electronics/radios',Code,'Source code','','Methods and Protocols, Units, Measures'
+'/technology and computing/software/databases','/education/english as a second language','/hobbies and interests/reading','World Wide Web','Uniform Resource Identifier','Web browser','General and Upper Ontologies'
+'/finance/accounting and auditing','/technology and computing/software','/technology and computing',Standardization,'','','Vocabularies, Languages and Terminologies'
+'/technology and computing/software/databases','/education/language learning','/education/english as a second language','Resource Description Framework',Cognition,'','Social Semantic Desktop'
+'/education/english as a second language','/technology and computing/software/databases','/hobbies and interests/reading',Data,Statistics,Mathematics,'Methods and Protocols, Units, Measures'
+'/technology and computing/software/databases','/science/social science/history','/technology and computing/software','','','',Quality
+/science/geography/cartography,/science/geography,'/technology and computing/programming languages/c and c++',GeoNames,'','',Geography
+'/art and entertainment/shows and events/sports event','/business and industrial/hospitality industry/event planning','/business and industrial',Metaphysics,World,'Entity-relationship model','Press and News'
+'/art and entertainment/visual art and design','/technology and computing/software/databases','/technology and computing/programming languages/java',Lexicography,'','','Archives, Catalogs, Classification systems'
+'/hobbies and interests','/family and parenting/children',/finance/investing/options,Semantics,'Semantic Web','Cognitive linguistics',People
+'/technology and computing/software/databases','/art and entertainment/music/recording industry','/business and industrial/chemicals industry/adhesives','Resource Description Framework',Lexicography,'','W3C Recommendations'
+'/business and industrial/agriculture and forestry/aquaculture','/society/unrest and war','/technology and computing/software/databases',Ontology,'Web Ontology Language','Geopolitical ontology',Geography
+'/art and entertainment/visual art and design/architecture','/law, govt and politics/government','','Enterprise architecture','Federal government of the United States','Federal Enterprise Architecture','The Government'
+'/law, govt and politics/legal issues/human rights','/technology and computing/programming languages/java','/law, govt and politics/government/parliament','Creative Commons','Digital rights management','Lawrence Lessig',Metadata
+'/shopping/retail/second-hand market','/hobbies and interests/games/board games and puzzles',/science/mathematics/arithmetic,'Semantic Web',Semantics,'Command-line interface','RDF Data'
+'/technology and computing/software/databases','/technology and computing/software','/art and entertainment/visual art and design/design','Geospatial metadata','ISO standards','','Support vocabularies'
+'/finance/accounting and auditing','/business and industrial/manufacturing',/society/welfare,'Object-oriented programming','ISO standards','',Geography
+'/hobbies and interests/reading',/sports/olympics,'/education/english as a second language',Website,'World Wide Web',XML,'Timeline, Calendar'
+'/law, govt and politics/government','/business and industrial/biomedical','','','','','The Government'
+'','','','','','',Geometry
+'/technology and computing/software/databases','','',Game,Games,Plato,Games
+'/technology and computing/software/databases','/technology and computing/enterprise technology/data management','/business and industrial/biomedical','Controlled vocabulary',Ontology,Ontology,Metadata
+'/art and entertainment/books and literature','/science/social science/linguistics/translation','/education/english as a second language',Language,Dialect,'','Vocabularies, Languages and Terminologies'
+'/business and industrial/energy/renewable energy/fuel cell','','',Ontology,WordNet,'','PROTON Ontologies'
+'/technology and computing/software/databases','/business and industrial/company/annual report','/technology and computing/software/desktop publishing','Philosophy of science','','','Social organization'
+'/technology and computing/networking/network monitoring and management','/technology and computing/internet technology/ecommerce','/technology and computing/internet technology/web design and html','Content management system','','',Protocols
+'/technology and computing/software/databases','','','','','','RDF Data'
+/science/physics,'/business and industrial/energy/electricity','/technology and computing/hardware/computer components/chips and processors','Qualitative research','Units of measurement',Property,'Methods and Protocols, Units, Measures'
+'/technology and computing/hardware/computer components/chips and processors','/business and industrial/business operations/management/project management','','Software architecture','','','The Academy'
+'/education/english as a second language','/technology and computing/programming languages/java','/hobbies and interests/reading',Statistics,Data,Sociology,'Methods and Protocols, Units, Measures'
+'/business and industrial','/technology and computing/software/databases','/hobbies and interests/reading','Substance theory','Controlled vocabulary','Earthquake engineering',Metadata
+/science/mathematics/algebra,/science/mathematics/statistics,'/business and industrial/business operations/business plans','','','','Support vocabularies'
+'/technology and computing/programming languages/visual basic','/hobbies and interests/reading','/education/english as a second language',Publishing,'','',Quality
+'/travel/tourist facilities/hotel','','',Ontology,Concept,'',Geography
+'/technology and computing/programming languages/java','/education/english as a second language','/technology and computing/software/databases','Resource Description Framework','','','W3C Recommendations'
+'/technology and computing/programming languages/visual basic','/law, govt and politics/government/legislative','/technology and computing/programming languages/c and c++','Information architecture','','','Social Semantic Desktop'
+'/technology and computing/programming languages/java','/hobbies and interests/reading','/law, govt and politics/legal issues/human rights',RSS,'','',Protocols
+'/business and industrial/business operations/management/business process','/technology and computing/programming languages/java','','','','','Methods and Protocols, Units, Measures'
+'/law, govt and politics/legal issues/legislation/family laws','/hobbies and interests/reading',/society,'','','',Multimedia
+'/hobbies and interests/arts and crafts/crochet','/technology and computing/software/databases','/technology and computing/computer security/antivirus and malware',Time,'','','Timeline, Calendar'
+'/technology and computing','/science/social science/linguistics','/technology and computing/internet technology/social network','Semantic Web','Model theory','','Tagging vocabularies'
+'/health and fitness/nutrition','/law, govt and politics','/family and parenting/children','Periodic table','Alkali metal',Potassium,'FRBR, RDA, FRAD and related vocabularies'
+/science/mathematics/geometry,'/health and fitness/disorders/mental disorder/a.d.d.','','','','',Geometry
+'/hobbies and interests/reading',/society,'',License,Licenses,'',Metadata
+/society,'/hobbies and interests/reading','/technology and computing',Ontology,Logic,'Sentiment analysis',Quality
+'/law, govt and politics','','','','','','Support vocabularies'
+'/technology and computing','/business and industrial','/technology and computing/software/databases','Georg Wilhelm Friedrich Hegel','Semantic Web','',Events
+'/technology and computing/software/databases','','','Greek loanwords','Controlled vocabulary',Value,Metadata
+'/technology and computing/software/databases','/art and entertainment/visual art and design/architecture','/technology and computing/enterprise technology/data management','Dublin Core',Metadata,'Resource Description Framework',Metadata
+'/law, govt and politics/armed forces/marines','/travel/tourist destinations/united kingdom','/law, govt and politics/legal issues/civil law/copyright','The Marine',Ontology,'','Life Sciences'
+'/education/english as a second language','/hobbies and interests/reading','/business and industrial/business operations/business plans','Open content','','','Social organization'
+'/business and industrial/business operations/human resources','/technology and computing/networking/network monitoring and management','/technology and computing/internet technology/email',Website,Internet,'World Wide Web',Protocols
+/society,'/education/english as a second language','/technology and computing/internet technology/social network',Metadata,'Resource Description Framework',Sociology,'Social organization'
+'/hobbies and interests/reading','/technology and computing/software/databases','/technology and computing/programming languages/java','Controlled vocabulary','','',Metadata
+'/art and entertainment/visual art and design/design/industrial and product design','/art and entertainment/visual art and design','/technology and computing/software/graphics software',Self-realization,'Nigel Godrich','','Support vocabularies'
+'/technology and computing/internet technology/social network',/science/mathematics/algebra,'/technology and computing/hardware/computer','Web page','Object-oriented programming','Semantic Web',Protocols
+'/society/social institution/marriage','/finance/investing/futures trading','/family and parenting/parenting teens','','','','Archives, Catalogs, Classification systems'
+'/technology and computing/software/databases','/education/english as a second language','/technology and computing/programming languages/javascript','','','',Metadata
+'/technology and computing/software/databases','/hobbies and interests/collecting','','Data modeling','Data element','','Archives, Catalogs, Classification systems'
+'/business and industrial/business operations/human resources','/technology and computing','/society/crime/property crime/larceny','World Wide Web','Web server','Hypertext Transfer Protocol',Quality
+'/technology and computing/enterprise technology/data management','/technology and computing/software/databases','/hobbies and interests/collecting','Quality control','','',Quality
+'/education/language learning','/education/english as a second language','/law, govt and politics/government','Computer program','Open content','',Protocols
+'/technology and computing/programming languages/javascript','','','','','','RDF Data'
+'/education/english as a second language',/society/work/retirement,'/law, govt and politics/government/courts and judiciary','Civil service','','','Methods and Protocols, Units, Measures'
+'/technology and computing/software/databases','/technology and computing/programming languages/java','/art and entertainment/visual art and design','Encoded Archival Description','Archival science','','Archives, Catalogs, Classification systems'
+/science/mathematics/geometry,/society,'/hobbies and interests/reading','','','',Geometry
+'/technology and computing/software/databases','/business and industrial/aerospace and defense/space technology','/education/english as a second language','Official statistics','Social research','Quantitative research','Methods and Protocols, Units, Measures'
+'/technology and computing/internet technology/web search','/technology and computing','/hobbies and interests/reading',Geodesy,Latitude,'Geodetic system',Geography
+'/technology and computing/computer security/network security','/technology and computing/hardware/computer','/technology and computing/computer security','Information architecture','','',Security
+'/art and entertainment/movies and tv/movies/reviews','/technology and computing/operating systems/linux','/technology and computing','Semantic Web','Resource Description Framework',Activity,'Timeline, Calendar'
+'/finance/investing/funds/exchange traded funds','/technology and computing/software/databases','/technology and computing',Ontology,'','','General and Upper Ontologies'
+'','','','Everyday Life','Personal life','Very Large Array',People
+'/health and fitness/drugs','/technology and computing/hardware/computer components/chips and processors','/art and entertainment/radio',Semantics,BBC,Ontology,'General and Upper Ontologies'
+'/art and entertainment/theatre','/art and entertainment/theatre/theatre awards','/art and entertainment/music/music reference/music composition and theory',Theatre,'Outline of theatre','',Events
+'/science/social science/philosophy','','','Web 2.0',Hyperlink,'Semantic Web','Tagging vocabularies'
+'/education/english as a second language','/technology and computing/software/databases','/technology and computing/internet technology/web search','Mathematical terminology','Resource Description Framework','','Tagging vocabularies'
+'/art and entertainment/visual art and design/architecture','/hobbies and interests/collecting','/technology and computing/internet technology/isps',Ontology,Design,Chronology,'Timeline, Calendar'
+'/travel/transports/public transport','/art and entertainment/music','/art and entertainment/shows and events/festival','Information architecture','Road transport','',Travel
+'/finance/personal finance/financial planning/asset and portfolio management','/business and industrial','/technology and computing/software','','','',Metadata
+'/family and parenting','/health and fitness/nutrition','/law, govt and politics/government/government agencies','Personality psychology','','','FRBR, RDA, FRAD and related vocabularies'
+/science,'','',Physics,Time,'Scientific method','Methods and Protocols, Units, Measures'
+/science/mathematics/geometry,'','',Geometry,'','',Geometry
+'/law, govt and politics/government/parliament','','','United Kingdom','Parliament of the United Kingdom',Wales,'The Government'
+'/technology and computing/software/databases',/science,/science/geography,Life,'Biological classification','','Life Sciences'
+'/automotive and vehicles/vehicle brands/volkswagen','/automotive and vehicles/commercial vehicles','/hobbies and interests/reading',Volkswagen,Automobile,'',Industry
+'/technology and computing/software/databases','/law, govt and politics','',Citation,Bibliography,'','Semantic Publishing and Referencing Ontologies'
+'/technology and computing/software/databases','/technology and computing/programming languages/java','','','','','FRBR, RDA, FRAD and related vocabularies'
+'/technology and computing/software/databases','/business and industrial/advertising and marketing/marketing','/business and industrial','Web Ontology Language','','',Services
+'/health and fitness/disease/cancer','/art and entertainment/books and literature/reference books','/education/teaching and classroom resources/lesson plans','','','','Support vocabularies'
+'/technology and computing/software/databases','/technology and computing/software','/art and entertainment/visual art and design/design','Data management','Geospatial metadata','ISO standards',Quality
+'/society/crime/property crime/usury',/science/mathematics/geometry,'/art and entertainment/visual art and design/architecture','','','',Geography
+'/technology and computing/programming languages','/business and industrial/business operations/human resources','','','','','Vocabularies, Languages and Terminologies'
+'/technology and computing/consumer electronics/audio equipment','/art and entertainment/books and literature','/hobbies and interests/reading',Ontology,Concept,'','Music and Sound'
+'/technology and computing/electronic components','/technology and computing/internet technology/social network','/technology and computing/networking/network monitoring and management',Ontology,Sensor,'Wireless sensor network','Methods and Protocols, Units, Measures'
+'/travel/tourist destinations/europe','/travel/tourist destinations/australia and new zealand','','Coordinated Universal Time','Greenwich Mean Time','Universal Time','Timeline, Calendar'
+'/technology and computing/computer certification','/technology and computing/enterprise technology/data management','/technology and computing/software/databases','Technical communication',Metadata,'Breed Groups',Metadata
+'/technology and computing/internet technology/web search','/business and industrial/hospitality industry/event planning','/business and industrial/advertising and marketing/marketing',Being,'','',Events
+'/art and entertainment/radio','/art and entertainment/movies and tv/documentaries','/news/international news','Semantic Web','Web page',Website,'Press and News'
+'/technology and computing/software/databases','/technology and computing/programming languages/java','','','','','Archives, Catalogs, Classification systems'
+'/technology and computing/programming languages/visual basic','/education/english as a second language','/hobbies and interests/reading','The Core','','',Quality
+/society,/science,'/education/english as a second language','Design pattern','','','RDF Data'
+'/technology and computing','/law, govt and politics/government','/education/english as a second language','','','',People
+'/art and entertainment/visual art and design/design','/technology and computing','/business and industrial','Open content','Philosophical logic','','RDF Data'
+'/business and industrial/business operations/management/business process','/finance/personal finance/financial planning/asset and portfolio management','/education/homework and study tips','Information technology management','','',Services
+'/art and entertainment/music/music reference/music composition and theory','/health and fitness/exercise','',Time,Ontology,'','Timeline, Calendar'
+'/technology and computing/software/databases','/law, govt and politics','/education/english as a second language',Vocabulary,'','',Geography
+'','','','','','','Timeline, Calendar'
+/science/mathematics/geometry,'/science/phyiscs/atomic physics','/home and garden/bed and bath/bedroom/beds and headboards','Units of measurement',Measurement,'Physical quantity','Methods and Protocols, Units, Measures'
+'/technology and computing/software','/art and entertainment/visual art and design/design','/business and industrial/business operations/management/project management','Computer program','Enterprise content management','Content management system',PLM
+'/technology and computing/software/databases','/health and fitness/alternative medicine/holistic healing',/science/biology/botany,'Controlled vocabulary',Taxonomy,Ontology,'Archives, Catalogs, Classification systems'
+/pets/birds,'','','Web Ontology Language','','','Archives, Catalogs, Classification systems'
+'/technology and computing',/science/mathematics/algebra,/science/mathematics/geometry,'Semantic Web',Semantics,Ontology,Recommandations
+'/science/phyiscs/atomic physics',/science/ecology,/science/biology/botany,Observation,'','','Life Sciences'
+'/business and industrial/business operations/business plans','/law, govt and politics','/family and parenting/children',Metaphysics,'','','Methods and Protocols, Units, Measures'
+'/real estate/buying and selling homes','/technology and computing/software','/technology and computing/hardware/computer','Wiki software','Comparison of wiki software','Systems engineering',PLM
+'/technology and computing/software/databases',/pets/birds,'',Observation,'Geographic information system','Observations and Measurements','Methods and Protocols, Units, Measures'
+'/science/social science/linguistics','','',Linguistics,Syntax,'Linguistic description','Vocabularies, Languages and Terminologies'
+'/technology and computing/software','/technology and computing/software/databases',/pets/birds,'Geospatial metadata','ISO standards','',Geometry
+'/technology and computing/software/databases','/business and industrial/biomedical','/business and industrial','Semantic Web','Gramophone record',Ontology,'Semantic Publishing and Referencing Ontologies'
+'/law, govt and politics/legal issues/legislation/family laws','/business and industrial/advertising and marketing/public relations','/news/national news',Time,Ontology,'Representation term','Timeline, Calendar'
+'/art and entertainment/shows and events/concert','/hobbies and interests/reading',/society,'','','',E-Business
+'/technology and computing/consumer electronics','','','Consumer electronics','','',Industry
+'/finance/accounting and auditing','/technology and computing/software','/business and industrial/manufacturing','Geospatial metadata','ISO standards','',Geography
+'/science/biology/zoology/endangered species','/travel/tourist destinations/africa','/health and fitness/disease','2000s music groups','','','Sustainability and environmental management'
+'/technology and computing/computer certification','/science/computer science/cryptography','',Certificate,Diploma,'',Quality
+'/food and drink/beverages/alcoholic beverages/cocktails and beer','/food and drink/beverages/alcoholic beverages/wine','/hobbies and interests/reading',Whisky,'','',Food
+/science/mathematics/geometry,'/technology and computing/software/databases','/technology and computing/programming languages/java',Region,'','',Geometry
+'/education/english as a second language','/technology and computing/software/databases',/science/mathematics/statistics,Data,Statistics,'','Methods and Protocols, Units, Measures'
+'/technology and computing/software/databases','/technology and computing/programming languages/java','/technology and computing','Functional Requirements for Bibliographic Records','Requirements analysis','','FRBR, RDA, FRAD and related vocabularies'
+/science/geology,/science,'','Geologic time scale',Stratigraphy,Paleontology,'Timeline, Calendar'
+/society,'/hobbies and interests/reading',/education/school,Biography,'','',People
+'/law, govt and politics/law enforcement/fire department','/education/english as a second language','/hobbies and interests/reading',Communication,Information,Media,'Social organization'
+'/health and fitness/nutrition','/business and industrial/advertising and marketing/marketing','/business and industrial','Transition metal','Periodic table',D-block,'FRBR, RDA, FRAD and related vocabularies'
+'/health and fitness/nutrition','/society/social institution/marriage','/health and fitness/disease/cholesterol','The Various','','','FRBR, RDA, FRAD and related vocabularies'
+'/art and entertainment/visual art and design/architecture','/art and entertainment/shows and events/conference','/technology and computing','Dublin Core',Metadata,'Resource Description Framework','General and Upper Ontologies'
+'/technology and computing/software/databases','/technology and computing/hardware/computer networking/router','',Identifiers,Identifier,'Global Trade Item Number','Support vocabularies'
+'/finance/personal finance/financial planning/asset and portfolio management','/technology and computing/software/databases','/art and entertainment/books and literature',Asset,'','','Press and News'
+'/business and industrial/advertising and marketing/public relations','/society/social institution/marriage','/family and parenting/parenting teens',Relationship,'Interpersonal relationship','Personality psychology',People
+/science/medicine,'/health and fitness','/technology and computing','World Wide Web','Semantic Web','Health care',Health
+'/science/computer science/cryptography','/business and industrial/company/annual report','/technology and computing/hardware',Cryptography,Algorithm,'',Security
+'/science/biology/zoology/endangered species','/art and entertainment/books and literature','/hobbies and interests/reading',Species,Biology,'','Life Sciences'
+'/hobbies and interests/inventors and patents','/law, govt and politics/government/government agencies','/law, govt and politics/government/state and local government',Object,Ontology,Abstraction,'Press and News'
+'/technology and computing/programming languages/java','/health and fitness/disease/aids and hiv','/business and industrial/business operations/management/project management','The Various','','','The Academy'
+'/technology and computing/software/databases','/food and drink/health and lowfat cooking','/food and drink',Semantics,'Class diagram','Software requirements',Food
+'/technology and computing/software/databases','/technology and computing/software/graphics software','/technology and computing','Open Archives Initiative','Archival science','Open Archives Initiative Object Reuse and Exchange','Archives, Catalogs, Classification systems'
+'/technology and computing/software/databases','/technology and computing','/technology and computing/programming languages/java','Access control','Resource Description Framework','',Protocols
+'/hobbies and interests/reading',/society,'/technology and computing/operating systems/linux',Calendar,'','','Timeline, Calendar'
+'/law, govt and politics/legal issues/legislation/family laws','/business and industrial/advertising and marketing/public relations','/law, govt and politics/government/state and local government',Trait,'','',Multimedia
+'/hobbies and interests/reading','/education/homework and study tips','',Vocabulary,'','',Metadata
+/science/geography,'/law, govt and politics/legal issues/civil rights','/law, govt and politics/legal issues/civil law',Pytheas,'Great Britain','Kingdom of Great Britain',Geography
+'/technology and computing/hardware/computer/desktop computer','/hobbies and interests/magic and illusion','/law, govt and politics/armed forces/army',VCard,KDE,'','Social Semantic Desktop'
+'/law, govt and politics',/science/biology,'/shopping/resources/warranties and service contracts','Open content','','','PROTON Ontologies'
+'/technology and computing/hardware/computer networking/router','/technology and computing','/technology and computing/software/databases','Configuration management','','',E-Business
+'/science/computer science/information science','/technology and computing/software/databases','/art and entertainment/books and literature','Controlled vocabulary',Terminology,Tag,'W3C Recommendations'
+'/technology and computing/software/databases','/travel/tourist destinations/united kingdom','/art and entertainment/visual art and design/design','ISO 3166-1','ISO 3166-1 alpha-3','ISO 3166-1 alpha-2',Geography
+'/art and entertainment/visual art and design/painting',/science/physics,'/law, govt and politics/legal issues/human rights','','','',Quality
+'/law, govt and politics/espionage and intelligence/surveillance','/technology and computing','/technology and computing/computer security/network security',2G,Internet,3G,Security
+'/art and entertainment/books and literature','/business and industrial/biomedical','/business and industrial/publishing','Semantic Web',Being,Object,'Semantic Publishing and Referencing Ontologies'
+'/education/english as a second language','/hobbies and interests/reading','/art and entertainment/books and literature','','','',Multimedia
+'/home and garden/appliances/refrigerators and freezers','/home and garden/appliances/microwaves','',Refrigerator,'Absorption refrigerator','',Industry
+'/business and industrial/business operations/human resources','/technology and computing/software/databases','/business and industrial','World Wide Web',Metadata,'Mass media',Multimedia
+'/business and industrial/business operations/management/business process','/technology and computing','/art and entertainment/visual art and design/architecture',Mathematics,'Parallel postulate','','Sustainability and environmental management'
+'/technology and computing/software/databases',/science/mathematics/algebra,'/technology and computing/programming languages/java','','','','RDF Data'
+'/technology and computing/technological innovation','/technology and computing','/business and industrial/business operations/human resources/payroll services',Innovation,'','',Industry
+'/technology and computing/networking/vpn and remote access','/technology and computing/networking/network monitoring and management','/law, govt and politics/legal issues/human rights','Design management','','',Protocols
+'/technology and computing/software/databases','/art and entertainment/books and literature','',Semantics,'Semantic Web',Citation,'Archives, Catalogs, Classification systems'
+'/art and entertainment/humor','/technology and computing/programming languages/javascript','/technology and computing/software/databases','Uniform Resource Identifier','Entity-relationship model','Domain name',Protocols
+'/science/weather/meteorological disaster/hurricane','/business and industrial','/technology and computing','Semantic Web','Wireless sensor network','','Methods and Protocols, Units, Measures'
+'/technology and computing/software/databases','/technology and computing/consumer electronics/camera and photo equipment/cameras and camcorders/cameras','/education/english as a second language','Exchangeable image file format','','','Image and Video'
+'/education/english as a second language','/technology and computing/software/databases','/hobbies and interests/reading','Semantic Web','World Wide Web Consortium standards','RDF Schema','RDF Data'
+'/society/unrest and war','/art and entertainment/comics and animation/comics','/travel/tourist destinations/united kingdom','United Kingdom','Doctor Who','Northern Europe',Events
+'/hobbies and interests/reading','/education/english as a second language','/technology and computing/software/databases',Vocabulary,'','',Metadata
+'/technology and computing/internet technology/social network','/technology and computing/programming languages/visual basic','/technology and computing/programming languages/c and c++','Nigel Godrich','','','Social organization'
+/education,'/technology and computing','/education/graduate school/college','Web Ontology Language','Academic elitism','','The Academy'
+'/technology and computing/software/databases','','','Unified Modeling Language',Mathematics,'','FRBR, RDA, FRAD and related vocabularies'
+'/food and drink','/technology and computing/software/databases','/food and drink/cuisines/american cuisine',Food,'','',Food
+'/health and fitness/disease/heart disease','/health and fitness/disease',/news,'','','','Press and News'
+'/business and industrial/business operations/management/business process','/technology and computing','/science/computer science/distributed systems','Knowledge management','Knowledge engineering',Knowledge,'PROTON Ontologies'
+/finance/investing/options,'/technology and computing/hardware/computer networking/router','/health and fitness/addiction/alcoholism',Globalization,Transport,'',Industry
+'/technology and computing/consumer electronics/camera and photo equipment/binoculars','/technology and computing/consumer electronics/tv and video equipment/projectors',/science/physics/optics,'','','','Image and Video'
+'/business and industrial/publishing','/technology and computing/software/desktop publishing','/business and industrial/biomedical',Time,'Semantic Web',Ontology,'Semantic Publishing and Referencing Ontologies'
+'/technology and computing/programming languages/visual basic','/art and entertainment/shows and events/conference','/technology and computing',Metadata,Type,'','Archives, Catalogs, Classification systems'
+'/finance/personal finance/financial planning/retirement and pension','/art and entertainment/books and literature',/education,'Academic publishing',Writing,Article,'The Academy'
+'/technology and computing/internet technology/web search','/technology and computing/software/databases','',Index,'','',Events
+'/technology and computing/software/databases','/technology and computing',/science,'Technical communication','','','RDF Data'
+'/hobbies and interests/reading',/society,'',Semiotics,'','','Vocabularies, Languages and Terminologies'
+'/education/english as a second language','/education/teaching and classroom resources/lesson plans','/family and parenting/children',Education,Teacher,Teaching,'The Academy'
+'/family and parenting/children','/hobbies and interests/reading','/health and fitness/disease/epilepsy',Being,'','','Timeline, Calendar'
+'/science/social science/linguistics','/technology and computing/programming languages','/technology and computing/programming languages/javascript','ISO standards','','','Vocabularies, Languages and Terminologies'
+'/technology and computing/software/databases',/science/mathematics/algebra,/science/mathematics/geometry,Perception,Abstraction,Information,Services
+'/art and entertainment/books and literature','/science/social science/linguistics/translation','/science/social science/linguistics','German language','French language','English language',Contracts
+'/hobbies and interests/reading',/society,'/technology and computing/operating systems','','','',Travel
+'/technology and computing/computer security/network security','/technology and computing/networking/vpn and remote access','/technology and computing/computer security/antivirus and malware','','','',Protocols
+'/technology and computing/programming languages/javascript','/technology and computing/internet technology','/education/english as a second language',XHTML,'','',Protocols
+'/technology and computing/electronic components','/technology and computing/software/databases','/art and entertainment/books and literature','','','','Semantic Publishing and Referencing Ontologies'
+'/technology and computing/hardware/computer components/chips and processors','/business and industrial/business operations/business plans','/technology and computing/software/desktop publishing',Sociology,'','',Multimedia
+/science/mathematics/statistics,'/science/computer science/artificial intelligence','/technology and computing/software/databases','','','','Methods and Protocols, Units, Measures'
+'/business and industrial/manufacturing',/shopping/retail,'/business and industrial',Interoperability,'','',Multimedia
+'/education/english as a second language','/technology and computing/software/databases','/hobbies and interests/reading',Website,'World Wide Web',XML,'W3C Recommendations'
+'/technology and computing/software/databases','/technology and computing','/business and industrial','Semantic Web',Object,Semantics,Multimedia
+'/technology and computing/internet technology/web design and html','/technology and computing/programming languages/javascript','/art and entertainment/visual art and design/architecture','No Doubt',TheStart,'World Wide Web Consortium',Metadata
+'/technology and computing/software/databases','/art and entertainment/books and literature','',Semantics,'Library catalog',Citation,'Semantic Publishing and Referencing Ontologies'
+'/business and industrial/energy/renewable energy/geothermal energy','/science/social science/linguistics','/art and entertainment/visual art and design/design',Design,'Software design','Graphic design','Vocabularies, Languages and Terminologies'
+'/technology and computing/software/databases','/technology and computing/programming languages/java','/law, govt and politics',Object,Ontology,'','The Academy'
+'/education/english as a second language','/hobbies and interests/reading','/education/teaching and classroom resources/lesson plans','Legal person','','',People
+/science/biology,'/technology and computing/internet technology/social network','/technology and computing/networking/network monitoring and management','Network diagram',WordNet,'','Life Sciences'
+'/technology and computing/software/databases',/science/mathematics/statistics,'','Data set','','','Archives, Catalogs, Classification systems'
+'/technology and computing/programming languages/java','/technology and computing','/business and industrial/company/joint venture','GNU Lesser General Public License','','','Life Sciences'
+'/technology and computing/software/databases','/technology and computing/software/graphics software','/technology and computing/programming languages/c and c++','Comma-separated values','','','CSV Data'
+/society/work/unemployment,'','','','','','Vocabularies, Languages and Terminologies'
+'/health and fitness/nutrition','/law, govt and politics/government/government agencies','/health and fitness','The Core','','','FRBR, RDA, FRAD and related vocabularies'
+'/health and fitness/nutrition','/art and entertainment/visual art and design/design','/technology and computing/enterprise technology/data management',Group,'Periodic table','','FRBR, RDA, FRAD and related vocabularies'
+'/technology and computing/software/databases','/education/english as a second language','/education/homework and study tips','','','',Protocols
+'/technology and computing/hardware/computer components/chips and processors','/art and entertainment/books and literature','/education/homework and study tips',Organization,Structure,'','W3C Recommendations'
+'/technology and computing/software/databases','/finance/personal finance/insurance','/technology and computing/programming languages/java','World Wide Web','Formal methods','Data modeling',Quality
+'/technology and computing/computer certification','','',Agent,'','',Quality
+'/technology and computing/internet technology/ecommerce','/technology and computing/enterprise technology/customer relationship management','/finance/investing/futures trading','Semantic Web','Web applications',Reference,E-Business
+'/art and entertainment/visual art and design/design','/finance/accounting and auditing','/technology and computing/software',Standardization,'Technical communication','','Methods and Protocols, Units, Measures'
+'/technology and computing/computer security/network security','/technology and computing/computer security','/business and industrial','The Domain, Sydney','Mobile computing',Internet,Security
+'/art and entertainment/music','/finance/personal finance/insurance/life insurance','/art and entertainment/music/recording industry/record labels','Measure word','','','Vocabularies, Languages and Terminologies'
+'/art and entertainment/visual art and design/design/graphic design','/technology and computing/software/databases','/business and industrial/business operations/business plans',BBC,'Creative work','Digital rights management','Archives, Catalogs, Classification systems'
+'/law, govt and politics/legal issues/civl rights/privacy','/technology and computing/software/databases','/technology and computing',Preference,'','',Protocols
+'/education/english as a second language','/education/homework and study tips','/education/teaching and classroom resources/lesson plans','Crisis management','Emergency management',Committee,'Sustainability and environmental management'
+'/art and entertainment/visual art and design','/technology and computing/software/databases','/art and entertainment/visual art and design/design','Semantic Web','Web Ontology Language','Resource Description Framework','Archives, Catalogs, Classification systems'
+'/technology and computing/data centers','/education/school/private school','/technology and computing/software/net conferencing',Concept,Ontology,'Semantic Web','Tagging vocabularies'
+/sports/baseball,'/law, govt and politics/government','/technology and computing','Breed Groups','','','Methods and Protocols, Units, Measures'
+'/technology and computing/technical support','/business and industrial/business operations/management/business process','/business and industrial/biomedical',Being,Ontology,Object,'Support vocabularies'
+/pets/birds,'/technology and computing/programming languages/javascript','/technology and computing/consumer electronics/camera and photo equipment/cameras and camcorders/camera bags',Set,Mathematics,'The Work','Support vocabularies'
+'/business and industrial/business operations/management/project management','/religion and spirituality/islam/islamic fundamentalism','/art and entertainment/visual art and design/art and craft supplies',Internet,Project,'Mailing list','Life Sciences'
+'/science/computer science','/technology and computing/programming languages/java','/technology and computing/internet technology/web search','Computer graphics','Computer science','Computational science','Archives, Catalogs, Classification systems'
+'/art and entertainment/visual art and design',/science/mathematics/geometry,'/technology and computing/programming languages/javascript','','','','Support vocabularies'
+/society/work/retirement,'/technology and computing/operating systems','/technology and computing/hardware/computer','Web Ontology Language','Operating system','Computer graphics',Quality
+/science/geography/topography,'/society/social institution/marriage','/technology and computing/hardware/computer components/chips and processors','Ordnance Survey','','',Geography
+'/law, govt and politics/government','/law, govt and politics/government/state and local government','','British Empire',Europe,'','The Government'
+'/technology and computing/software/databases','/technology and computing/programming languages/java','','','','','RDF Data'
+'/technology and computing/operating systems','/health and fitness/disease/epilepsy','/art and entertainment/books and literature',Semantics,'Das Model','','Timeline, Calendar'
+'/technology and computing/software','/technology and computing/software/databases','/technology and computing/hardware',Metaphysics,'','','PROTON Ontologies'
+'/style and fashion/beauty/hair care','/technology and computing/programming languages/c and c++','/technology and computing/internet technology/email',Library,'','','Vocabularies, Languages and Terminologies'
+'/health and fitness/drugs','/business and industrial/business operations/human resources','/business and industrial','Information architecture','','','Support vocabularies'
+'/business and industrial/business operations/management/business process','','','','','','Semantic Publishing and Referencing Ontologies'
+'/business and industrial/biomedical','/science/social science/linguistics','/technology and computing/software/databases',Grammar,Lexicon,'','Vocabularies, Languages and Terminologies'
+'/technology and computing/programming languages/javascript','/technology and computing/programming languages/java','/technology and computing/software/databases',Concept,Statistics,'',Quality
+'/technology and computing/software/databases','/technology and computing/programming languages/javascript','/technology and computing/software/graphics software/animation','Web server',XForms,'',Protocols
+'/law, govt and politics/government','/finance/personal finance/lending/student loans','/finance/personal finance/lending/credit cards',Borg,'','',Contracts
+'/education/english as a second language','/hobbies and interests/reading','/technology and computing/software/databases',Cartography,'','',Geography
+'/technology and computing/software/databases','/hobbies and interests/reading',/society,'','','','RDF Data'
+'/law, govt and politics/law enforcement','/science/social science/linguistics/translation','/art and entertainment/books and literature','Library catalog',Authority,'Problem solving','Archives, Catalogs, Classification systems'
+'/technology and computing/internet technology/web design and html','/technology and computing/internet technology/web search','/technology and computing/internet technology/ecommerce','','','',People
+'/technology and computing/software/databases','/technology and computing/hardware/computer components/chips and processors','/technology and computing/programming languages/java',Ontology,WordNet,'','Life Sciences'
+'/travel/tourist destinations/australia and new zealand','/education/english as a second language','/science/social science/linguistics/translation','','','',Quality
+'/art and entertainment/visual art and design/architecture','/technology and computing/software','/technology and computing/programming languages/java',Being,Metaphysics,'Web Ontology Language',Metadata
+'/hobbies and interests/guitar','/law, govt and politics/legal issues/legislation','/art and entertainment/music/singing',ISO,'','','Methods and Protocols, Units, Measures'
+'/science/computer science/artificial intelligence','/art and entertainment/shows and events/conference','/technology and computing','Semantic Web','Web Ontology Language','','Social organization'
+'/technology and computing/networking/network monitoring and management','/technology and computing/data centers','/travel/vacation rentals','','','','Archives, Catalogs, Classification systems'
+'/art and entertainment/books and literature','/science/social science/history/medieval history','',Italy,Philosophy,Plato,'Archives, Catalogs, Classification systems'
+'/technology and computing/software/databases','/technology and computing/internet technology/email','','','','',Protocols
+/sports/baseball,'','','','','','Semantic Publishing and Referencing Ontologies'
+/science/weather,'/home and garden/pest control','/technology and computing',Ontology,Concept,'','Sustainability and environmental management'
+'/food and drink/beverages','/food and drink/beverages/non alcoholic beverages/soft drinks','','Alcoholic beverage',Drink,Beverages,Food
+'/technology and computing/software','/technology and computing','/business and industrial','Semantic Web',Internet,Language,Protocols
+'/art and entertainment/books and literature','/technology and computing/software/databases','/art and entertainment/visual art and design/drawing',Being,Semantics,Reference,'Tagging vocabularies'
+'/technology and computing/software/databases','/technology and computing','','Resource Description Framework','World Wide Web',Mathematics,Protocols
+'/art and entertainment/visual art and design/design','/business and industrial/business operations/management/project management','/education/english as a second language','Semantic Web','Web Ontology Language','Resource Description Framework','Social organization'
+'/law, govt and politics/government','/technology and computing/programming languages/java','/society/social institution/marriage','','','','The Government'
+'/technology and computing/software/databases',/shopping/resources/coupons,'/style and fashion/fashion designers','Resource Description Framework','','','Vocabularies, Languages and Terminologies'
+'/art and entertainment/books and literature/reference books','/health and fitness/disease/cancer','/travel/tourist destinations/italy','Enrico Celio','2009 albums','F.C. Internazionale Milano','Social organization'
+'/technology and computing/software/databases','/technology and computing/software','/business and industrial',Java,'Greek loanwords','XML schema',Metadata
+'/science/social science/history',/science,'/family and parenting/children',Time,Space,Spacetime,Events
+'/technology and computing','/business and industrial/business operations/human resources','/science/computer science/artificial intelligence','Semantic Web',Semantics,'Web 2.0','Tagging vocabularies'
+'/technology and computing/software/databases','/education/english as a second language','/hobbies and interests/reading',Project,'Data set','Project management',Quality
+'/hobbies and interests/reading',/science/mathematics/statistics,'/technology and computing/software/databases',Statistics,'','','Methods and Protocols, Units, Measures'
+'/technology and computing/software/databases','/hobbies and interests/arts and crafts/crochet','/technology and computing/software/graphics software/animation','Transitive verb','','','Support vocabularies'
+/finance/investing/stocks,'/technology and computing','','Semantic Web',Semantics,Weighting,'Methods and Protocols, Units, Measures'
+'/technology and computing/hardware/computer components/chips and processors','/art and entertainment/visual art and design/design','/art and entertainment/dance','Object-oriented programming','Semantic Web',Being,'Social Semantic Desktop'
+'/technology and computing/software/databases','/science/biology/zoology/endangered species','/food and drink/food/candy and sweets',Species,'','','Life Sciences'
+'/business and industrial/business operations/business plans','/art and entertainment/visual art and design/drawing','/business and industrial/advertising and marketing/marketing',Brainstorming,'','','Social organization'
+'/finance/personal finance/financial planning/asset and portfolio management','/business and industrial/business operations/human resources','/technology and computing',Investment,'','',PLM
+'/technology and computing/software/databases','/hobbies and interests/reading','/technology and computing','','','','RDF Data'
+'/technology and computing/programming languages/java','/food and drink/kosher food','/technology and computing/software/databases',Rhetoric,'','',Metadata
+'/technology and computing/software/databases','/technology and computing/programming languages/c and c++','/technology and computing/programming languages/java','Type system','','','RDF Data'
+'/technology and computing/software/databases','','','Unified Modeling Language','Entity-relationship model',Mathematics,'FRBR, RDA, FRAD and related vocabularies'
+'/hobbies and interests/reading',/society,/science/biology/biotechnology,Science,'','','The Academy'
+'/law, govt and politics/legal issues/civil law/copyright','/technology and computing','/business and industrial','Digital rights management','Open Rights Group',Copyright,Multimedia
+'/hobbies and interests/inventors and patents','/education/english as a second language','/hobbies and interests/reading',Sociology,Philosophy,'',Quality
+'/technology and computing/software/databases','/technology and computing/programming languages/java','','Web Ontology Language','Resource Description Framework','Philosophy of mathematics','Semantic Publishing and Referencing Ontologies'
+'/technology and computing/internet technology/web search','/education/english as a second language','/hobbies and interests/reading',Yahoo!,'Web search engine','World Wide Web','General and Upper Ontologies'
+'/technology and computing/software/databases','','','','','','RDF Data'
+'/hobbies and interests/reading','/real estate/apartments','/law, govt and politics/legal issues/human rights',Metaphysics,'','','Archives, Catalogs, Classification systems'
+'/technology and computing/programming languages/java','/technology and computing/consumer electronics/camera and photo equipment/telescopes','/technology and computing/programming languages/visual basic',Object,'Information architecture','','General and Upper Ontologies'
+/science/mathematics/geometry,/science/physics/optics,/science/mathematics/algebra,Measurement,'','','Methods and Protocols, Units, Measures'
+/science/mathematics/geometry,'/art and entertainment/music','/art and entertainment/books and literature',Mind,Ontology,Metaphysics,'Support vocabularies'
+'/home and garden/appliances',/science/mathematics/algebra,'/art and entertainment/visual art and design/design',Concept,Ontology,'Philosophy of language','Methods and Protocols, Units, Measures'
+'/technology and computing/software/databases','/art and entertainment/visual art and design','/art and entertainment','Web Ontology Language','','','Image and Video'
+'/technology and computing/software/databases','/science/computer science/artificial intelligence','/technology and computing','Semantic Web','','','The Academy'
+'','','','','','','General and Upper Ontologies'
+'/technology and computing/software/databases','/education/language learning','/education/english as a second language',Website,'World Wide Web',XML,Protocols
+'/automotive and vehicles/cars','/technology and computing/internet technology/ecommerce','/technology and computing/enterprise technology/customer relationship management','Semantic Web','The Used','World Wide Web',E-Business
+/finance/investing/options,'/health and fitness/disorders','/health and fitness/addiction','Decision making','','','Support vocabularies'
+'/food and drink/kosher food','/science/social science/philosophy/ethics','/science/social science/philosophy',Rhetoric,'','',Metadata
+'/education/english as a second language','/hobbies and interests/reading','/education/teaching and classroom resources/lesson plans','The Hydra','','','RDF Data'
+'/art and entertainment/shows and events/sports event','/technology and computing/consumer electronics/camera and photo equipment/telescopes','/technology and computing/programming languages/visual basic','First-class function','','',Events
+'/art and entertainment/visual art and design/art museums and galleries','/home and garden/bed and bath/bedroom/bedding and bed linens','/art and entertainment',Library,Being,Archive,Services
+'/education/english as a second language','/hobbies and interests/reading','/education/teaching and classroom resources/lesson plans','','','','Archives, Catalogs, Classification systems'
+/science/medicine/genetics,/science/biology,'/finance/personal finance/insurance/life insurance','Nature Publishing Group','Nature Biotechnology','Macmillan Publishers','Press and News'
+'/careers/u.s. military','/law, govt and politics/government','/law, govt and politics/government/government agencies','','','','Social organization'
+'/technology and computing/software/databases','/business and industrial/company/earnings','/business and industrial/manufacturing',Transformation,'Data migration','','RDF Data'
+'/finance/accounting and auditing','/technology and computing/software/databases','/business and industrial/manufacturing',Observation,'Observations and Measurements','Philosophy of science',Geography
+'/business and industrial/aerospace and defense/space technology','/science/physics/space and astronomy','/health and fitness/disease/cancer','','','',Geography
+'/art and entertainment/books and literature/reference books','/technology and computing/enterprise technology/customer relationship management','/technology and computing/software/databases',Semantics,'','','General and Upper Ontologies'
+/science/mathematics/algebra,/science/mathematics/geometry,/science/physics,'The Play',Ontology,Concept,'Music and Sound'
+'/technology and computing/software/databases',/science/mathematics/geometry,'/finance/accounting and auditing',Mathematics,Space,Geography,Geometry
+'/hobbies and interests/arts and crafts/knitting','/hobbies and interests/arts and crafts/crochet','/technology and computing/software/databases','Bobby Hutcherson','James Spaulding','Joe Chambers','Archives, Catalogs, Classification systems'
+'/business and industrial/advertising and marketing/public relations','/technology and computing/programming languages/visual basic','/law, govt and politics','','','',Geometry
+'/technology and computing/hardware/computer components/chips and processors',/sports/rugby,'/technology and computing/internet technology/email',XML,'Web syndication',Force,Protocols
+'/automotive and vehicles/cars/hybrid','/automotive and vehicles/certified pre-owned','/automotive and vehicles/off-road vehicles','Semantic Web','Web applications',Marketing,E-Business
+'/technology and computing/software/databases','/technology and computing/programming languages/java','','Best practice','','',People
+'/food and drink/beverages/alcoholic beverages/wine',/pets/birds,'/food and drink','Web Ontology Language','','',Food
+'/food and drink/kosher food','/food and drink/desserts and baking','/business and industrial/chemicals industry/plastics and polymers',Isomorphism,'Algebraic structure','','Archives, Catalogs, Classification systems'
+'/technology and computing/software/databases','/technology and computing','/technology and computing/programming languages/java',Description,User,'Description logic','W3C Recommendations'
+'/technology and computing/software/databases','/shopping/resources/loyalty programs','/technology and computing/networking/vpn and remote access','Network access','','','Archives, Catalogs, Classification systems'
+'/technology and computing/programming languages/java','/hobbies and interests/reading',/society,'The Clean','','','Sustainability and environmental management'
+'/technology and computing/software/databases','/technology and computing','/technology and computing/software',Distribution,'Mass media','Resource Description Framework',Multimedia
+'/technology and computing','','','','','','Archives, Catalogs, Classification systems'
+'/technology and computing/computer security/antivirus and malware','/technology and computing/programming languages/java','/art and entertainment/visual art and design/design','Semantic Web','Web Ontology Language','Resource Description Framework',Quality
+/science/biology/botany,'/art and entertainment/books and literature',/science,Botany,Biology,Theophrastus,'Life Sciences'
+'/technology and computing/software/databases','/travel/tourist destinations/united kingdom','/technology and computing/programming languages/java',Being,'National library','British Museum','Archives, Catalogs, Classification systems'
+'/technology and computing/software/databases',/sports/baseball,'/business and industrial',Citation,'','','Semantic Publishing and Referencing Ontologies'
+'/business and industrial/business operations/management/business process','/technology and computing','',Workflow,Motif,'Windows Workflow Foundation','Methods and Protocols, Units, Measures'
+'/business and industrial/business operations/management/project management','/home and garden/appliances/refrigerators and freezers','/education/english as a second language','','','',Industry
+'/technology and computing/programming languages/java','/technology and computing/software/databases','/technology and computing/hardware/computer components/chips and processors',Internet,'Semantic Web',Semantics,Protocols
+'/technology and computing',/science,'/business and industrial','Project management','Project management software','','The Academy'
+'/technology and computing','/education/english as a second language','/hobbies and interests/reading','The Various','Cloud computing','','Life Sciences'
+'/technology and computing/software/databases','/education/language learning','/education/english as a second language',Website,'World Wide Web',XML,'RDF Data'
+'/technology and computing/software/databases',/science/mathematics/statistics,'','Data set',Data,'Resource Description Framework',Quality
+'/technology and computing/programming languages/visual basic','/technology and computing/internet technology/social network','/technology and computing','Semantic Web','Semantically-Interlinked Online Communities','','Social organization'
+'/science/social science/linguistics','/health and fitness/therapy','/science/computer science/artificial intelligence','Semantic Web',Semantics,Language,People
+'/education/language learning','/technology and computing/software/databases','/technology and computing/programming languages/java',SQL,'','','RDF Data'
+'/technology and computing','/science/social science/linguistics/translation','/science/social science/linguistics','Semantic Web',Semantics,'Web 2.0','Tagging vocabularies'
+'/science/computer science/artificial intelligence','/technology and computing','/technology and computing/internet technology/isps','Semantic Web','Web portal','Web 2.0','Social organization'
+'/art and entertainment/radio','/technology and computing/enterprise technology/data management','/art and entertainment/movies and tv/documentaries',Metadata,'Data management','',Quality
+/sports,/sports/rugby,'',Sport,BBC,'BBC Sport',Events
+'/technology and computing/enterprise technology/data management','/technology and computing/software/databases','/business and industrial/business operations/business plans','Resource Description Framework','','',Metadata
+/science/physics/optics,'/technology and computing/software/databases','/technology and computing',Lens,'Fresnel lens','Magnifying glass','RDF Data'
+'/technology and computing/programming languages/java','/technology and computing/software/databases','/technology and computing/hardware/computer',Reference,Annotation,'Semantic desktop','Social Semantic Desktop'
+'/home and garden/home improvement and repair/locks and locksmiths','/art and entertainment/music/musical instruments','/hobbies and interests/reading',Tonic,'','','Music and Sound'
+'/education/english as a second language','/hobbies and interests/reading','/business and industrial',Management,Organization,'','Social organization'
+'/education/english as a second language','/hobbies and interests/reading','',Vocabulary,'','',Metadata
+'/food and drink/beverages/alcoholic beverages/wine',/pets/birds,'/science/biology/zoology/endangered species','Web Ontology Language','','',Food
+'/technology and computing/programming languages','/technology and computing/programming languages/javascript','/style and fashion/jewelry/earrings',Linguistics,Language,'Programming language','Vocabularies, Languages and Terminologies'
+'/science/social science/linguistics','/technology and computing/software/databases','/business and industrial/business operations/management/business process',Ontology,Existence,Metaphysics,'Vocabularies, Languages and Terminologies'
+'/art and entertainment/visual art and design/architecture','/education/english as a second language','/health and fitness/disease/diabetes','Resource Description Framework','Dublin Core','','General and Upper Ontologies'
+'/technology and computing/programming languages/java','/hobbies and interests/arts and crafts/crochet','/technology and computing/software/databases',Mathematics,Design,'',Metadata
+'/business and industrial/company/annual report','/health and fitness/drugs','/business and industrial/pharmaceutical industry',Quality,Evaluation,'Quality control',Quality
+'/law, govt and politics/legal issues/human rights','/law, govt and politics/legal issues/civil rights','/technology and computing/software',Data,'','',Quality
+'/education/english as a second language','/hobbies and interests/reading','/technology and computing/internet technology/web search','Search engine optimization','','',Protocols
+'/technology and computing/computer security/network security','/technology and computing/software/databases','/technology and computing/computer security','Semantic Web','Access control','Physical security',Protocols
+'/technology and computing/programming languages/java','/technology and computing/programming languages','/technology and computing/programming languages/c and c++',Syntax,'Resource Description Framework','','RDF Data'
+'/technology and computing/software/databases','/business and industrial/company/merger and acquisition','','Means of production','Technical communication','',PLM
+'/education/english as a second language','/science/social science/history','/hobbies and interests/reading',Prehistory,Science,'',People
+'/travel/tourist facilities/bed and breakfast',/travel/hotels,'','','','',E-Business
+/science/mathematics/geometry,'/technology and computing/software/databases','/technology and computing/programming languages/java',Surveying,'Ordnance Survey',Geometry,Geometry
+'/art and entertainment/shows and events/conference','/technology and computing','/technology and computing/enterprise technology/data management','Dublin Core','Resource Description Framework',Metadata,Metadata
+'/art and entertainment/books and literature/reference books','','',WordNet,Object,Copula,'Vocabularies, Languages and Terminologies'
+'/technology and computing/software/databases','/technology and computing','/health and fitness','Resource Description Framework','','',Metadata
+/science/mathematics/geometry,'/technology and computing/programming languages/visual basic','/technology and computing/programming languages/c and c++','Units of measurement',Measurement,Set,'Methods and Protocols, Units, Measures'
+'/technology and computing',/science/mathematics/geometry,'/technology and computing/software/databases','Numerical analysis','World Wide Web',Philosophy,'Support vocabularies'
+'/business and industrial/business operations/business plans','/education/english as a second language','/hobbies and interests/reading','Call for bids','','',Contracts
+'/style and fashion/accessories/ties','','',Concept,Ontology,Idea,'General and Upper Ontologies'
+'/art and entertainment/visual art and design/design','/science/computer science','/technology and computing/software/databases','Design pattern','','','Support vocabularies'
+'/business and industrial/business operations/management/project management','/business and industrial',/news,Ontology,'','','Social organization'
+'/hobbies and interests/arts and crafts/crochet','/science/social science/history',/education,'','','',Events
+'/education/english as a second language','/shopping/resources/product reviews','/art and entertainment/movies and tv/movies/reviews',Review,'Book review','',Recommandations
+'/technology and computing/software/databases','/technology and computing/programming languages/c and c++',/finance/investing/options,Java,'Abstract data type','Array data structure','General and Upper Ontologies'
+'/business and industrial/business operations/management/business process','/law, govt and politics/legal issues/death penalty','/technology and computing/computer security/antivirus and malware','Unified Modeling Language','','','Methods and Protocols, Units, Measures'
+'/technology and computing/software/desktop publishing','/technology and computing','/health and fitness/therapy','Natural language processing','Natural language',Linguistics,'Vocabularies, Languages and Terminologies'
+'/art and entertainment/visual art and design','/technology and computing/programming languages/java','/technology and computing/software/databases','XML schema','Character encoding',Encoding,'Archives, Catalogs, Classification systems'
+/society/welfare,'','',Ontology,Concept,'',Services
+'/hobbies and interests/reading','/health and fitness/disease/epilepsy','/technology and computing/software/databases','Das Model','Geographic information system','','Timeline, Calendar'
+'/education/english as a second language','/science/social science/history/genealogy','/technology and computing/software/databases',Link,'','',People
+'/art and entertainment/music/music reference/music composition and theory','/art and entertainment/music','/hobbies and interests/guitar','Mary I of England','Queen Mary, University of London',Chord,'Music and Sound'
+'/finance/personal finance/lending/credit cards','/technology and computing/consumer electronics/telephones/mobile phones','/art and entertainment/visual art and design/design','Access control',Authorization,Authentication,Protocols
+'/science/social science/linguistics/translation','/family and parenting/children','/art and entertainment/music','Human physical appearance',Psychology,Mind,People
+'/technology and computing/internet technology/web design and html','/family and parenting/children','/law, govt and politics','Web page','World Wide Web','Tim Berners-Lee','W3C Recommendations'
+'/education/english as a second language','/hobbies and interests/reading','/technology and computing/enterprise technology/data management','Data management','Quality assurance','Data quality',Quality
+'/education/english as a second language',/society,'/business and industrial/advertising and marketing/public relations','','','',People
+'/education/english as a second language','/hobbies and interests/reading',/society,'Constraint satisfaction','Constraint satisfaction problem',Constraint,Industry
+'/technology and computing/programming languages/java','/technology and computing','/technology and computing/software','Web service',Internet,'Semantic Web',Protocols
+'/business and industrial/business operations/management/project management','/technology and computing/software/databases','','Units of measurement','','','Methods and Protocols, Units, Measures'
+'/technology and computing/internet technology/web search','/education/english as a second language','/business and industrial','','','','Methods and Protocols, Units, Measures'
+'/science/social science/linguistics','/art and entertainment/books and literature','/business and industrial','Semantic Web',Writing,'','Semantic Publishing and Referencing Ontologies'
+'/art and entertainment/books and literature','/hobbies and interests/collecting/stamps and coins','/science/social science/history','Concepts in metaphysics','','','Timeline, Calendar'
+'/technology and computing/software/databases','/law, govt and politics/legal issues/human rights','/law, govt and politics/legal issues/civil rights',Copyright,Law,Trademark,Contracts
