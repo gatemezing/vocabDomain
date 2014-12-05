@@ -1,0 +1,169 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%µ%%%%%%%%%%%%%%%%%%
+%%%  Automatic Domain Identification of Vocabularies: Issues and Challenges %%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[runningheads,a4paper]{llncs}
+
+\usepackage[utf8]{inputenc}
+\usepackage{amssymb}
+\setcounter{tocdepth}{3}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{url}
+\usepackage{listings}
+\usepackage{subfigure}
+\usepackage{algorithmic}
+\usepackage{algorithm}
+
+\newcommand{\keywords}[1]{\par\addvspace\baselineskip
+\noindent\keywordname\enspace\ignorespaces#1}
+
+% todo macro
+\usepackage{color}
+\newtheorem{deflda}{Axiom}
+\newcommand{\todo}[1]{\noindent\textcolor{red}{{\bf \{TODO}: #1{\bf \}}}}
+
+% Language Definitions for Turtle
+\definecolor{olivegreen}{rgb}{0.2,0.8,0.5}
+\definecolor{grey}{rgb}{0.5,0.5,0.5}
+\lstdefinelanguage{ttl}{
+sensitive=true,
+morecomment=[l][\color{brown}]{@},
+morecomment=[l][\color{red}]{\#},
+morestring=[b][\color{blue}]\",
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%  Beginning of document  %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+% first the title is needed
+%\title{Automatic Identification of Domain Vocabularies:Issues and Challenges }
+\title{Automatic Classification of Vocabularies using Machine Learning Techniques }
+%\subtitle{Classifying vocabularies }
+
+%\author{ Ghislain Auguste Atemezing\inst{1}, Jose-Luis Garcia Redondo \inst{1}, Ahmad Assaf \{inst{1}}
+
+\institute{
+EURECOM, Sophia Antipolis, France. \\
+%\and Fujitsu, Galway, Ireland.\\
+\email{<lastname.firstname@eurecom.fr> \\
+}
+}  
+
+
+% a short form should be given in case it is too long for the running head
+\titlerunning{Towards Automatic Domain Identification of Vocabularies: Issues and Challenges}	
+
+
+\maketitle
+
+%%%%%%%%%%%%%%%%%%
+%%%  Abstract  %%%
+%%%%%%%%%%%%%%%%%%
+
+\begin{abstract}
+Vocabularies play a key role in knowledge bases in general and in the Web of Data in particular. Vocabularies are generally modelled using classes and properties in OWL and RDF languages, for giving semantics to entities used in the Web of Data. Recent initiatives tried to help finding vocabularies in catalogues. However, it is still challenging to classify  vocabularies according to some ``specific'' domain without the help of expert domains, due to either the lack of sufficient metadata or the absence of automatic methods to assign domains to vocabularies.  A good domain classification of vocabularies will yield to accurate searching and clustering in search results in vocabulary catalogues. In this paper, we explore the challenging task of automatic detection and classification of vocabularies using and Natural Language techniques and Machine Learning techniques. We apply the methods in the case of Linked Open Vocabulary catalogue. Comparing the results of expert curators and our findings can settle some preliminary foundation towards the automatic detection of vocabulary domain. 
+
+\keywords{Vocabulary, Domain detection, Machine Learning, Linked Open Vocabularies }
+\end{abstract}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%  1. Introduction  %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Introduction}
+\label{sec:introduction}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%  2. Manual curation of domain in LOV  %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\section{Domain Classification Approaches}
+%\label{sec:background}
+
+Show the problem and implication
+
+\section{Related Work}
+\label{sec:soa}
+
+Work of domain classification in general, with vocabularies as well \\
+
+\section{Manual Curation of Domain vocabularies}
+\label{sec:curation}
+
+Take a vocab, look at the content and classes..manual identification of the domain.. assignment and/or creation of the domain in LOV backend. Applications: visual in the front-end and in the results page. 
+
+\begin{algorithm}[h]\scriptsize
+\caption{Process for detecting categories for vocabularies} \label{experiment}
+\begin{algorithmic}[1]
+    \STATE INITIALIZE $equivalentClasses(DBpedia,Freebase) $ AS $vectorClasses$
+    \STATE Upload $vectorClasses$ for querying processing
+    \STATE Set $n$ AS number-of-instances-to-query
+    \FOR {each $conceptType \in vectorClasses$}
+	\STATE SELECT $n$ instances
+	\STATE $listInstances \leftarrow$ SELECT-SPARQL($conceptType$, $n$)
+		\FOR {each $instance \in listInstances$}
+			\STATE CALL http://www.google.com/search?q=$instance$
+			\IF {$knowledgePanel$ exists}
+				\STATE SCRAP GOOGLE KNOWLEDGE PANEL
+			\ELSE
+				\STATE CALL http://www.google.com/search?q=$instance + conceptType$
+ 				\STATE SCRAP GOOGLE KNOWLEDGE PANEL
+			\ENDIF
+			\STATE $gkpProperties \leftarrow$ GetData(DOM, EXIST(GKP))
+			
+		\ENDFOR
+	\STATE COMPUTE occurrences for each $prop \in gkpProperties$
+    \ENDFOR
+    \RETURN $gkpProperties$
+\end{algorithmic}
+\end{algorithm}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%  3. Domain classification using Alchemy  %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Experiments and Evaluation}
+\label{sec:classification}
+Explain the experiments..describe the Alchemy output and findings
+
+Query in LOV aggregator for vocabularies + description + domain (inLOV) at \url{http://goo.gl/uJgQ2w}\footnote{Dataset as of 6th, November 2014 with 475 vocabularies.}
+
+\subsection{Dataset preparation}
+
+\subsection{Classifier}
+
+\subsection{Results}
+
+\section{Discussion}
+\label{sec:discussion}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%  4. Conclusion and Future Work  %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Conclusion and Future Work}
+\label{sec:conclusion}
+\todo{go for a tool to categorize and tag vocabularies}
+Everything is writing here the ``take-away message''
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%  Acknowledgments  %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\paragraph{\textbf{Acknowledgments.}} %\label{sec:acknowledgments}
+This work has been partially supported by Datalift (ANR-10-CORD-009), UCN (ANR-11-LABX-0031-01) and LinkedTV (GA 287911).
+
+\bibliographystyle{abbrv}
+\nocite{*}
+\bibliography{eswcbib}
+\end{document}
