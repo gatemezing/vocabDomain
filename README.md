@@ -9,3 +9,4 @@ TODO
 ====
   - Look at Cosine similarity of the descriptions 
   - Find how to compare the results of the classifier with the experts of the domain
+  - Test using DBpedia spotlight in the descriptions
