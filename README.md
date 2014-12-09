@@ -10,3 +10,4 @@ TODO
   - [ ] Look at Cosine similarity of the descriptions 
   - [ ] Find how to compare the results of the classifier with the experts of the domain
   - [ ] Test using DBpedia spotlight in the descriptions
+  - [ ] Write a paper for ESWC 2015 with the first results
