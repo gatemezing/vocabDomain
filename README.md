@@ -7,7 +7,7 @@ Updates of the evolution of the study can be found at https://docs.google.com/do
 
 Related Work
 ============
-  - [Automatic Domain Identification for Linked Open Data (http://knoesis.wright.edu/pascal/pub/domainIdentLOD13.pdf) ]
+  - Automatic Domain Identification for Linked Open Data (http://knoesis.wright.edu/pascal/pub/domainIdentLOD13.pdf) 
 
 TODO
 ====
