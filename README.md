@@ -5,6 +5,17 @@ A repository for experiments to detect automatically the domain of a vocabulary 
 
 Updates of the evolution of the study can be found at https://docs.google.com/document/d/1EoBkyT5c1lZ6iie6TapXmFL-j-zyg3GNYOFgH_wMeyY/edit?usp=sharing.
 
+
+Calling spotlight
+=================
+
+<pre>
+curl http://spotlight.sztaki.hu:2222/rest/annotate \
+  --data-urlencode "text=Linked Statistical Models Vocabulary. A Vocabulary for Incorporating Predictive Models into the Linked Data Web." \
+  --data "confidence=0.2" \
+  --data "support=20" -H "Accept:application/json"
+</pre>
+
 Related Work
 ============
   - Automatic Domain Identification for Linked Open Data (http://knoesis.wright.edu/pascal/pub/domainIdentLOD13.pdf) 
