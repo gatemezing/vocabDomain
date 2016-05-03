@@ -18,7 +18,7 @@ curl http://spotlight.sztaki.hu:2222/rest/annotate \
 
 Related Work
 ============
-  - Automatic Domain Identification for Linked Open Data (http://knoesis.wright.edu/pascal/pub/domainIdentLOD13.pdf) 
+  - Automatic Domain Identification for Linked Open Data (http://daselab.cs.wright.edu/pub/domainIdentLOD13.pdf) 
 
 TODO
 ====
