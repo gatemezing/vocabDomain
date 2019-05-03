@@ -19,6 +19,7 @@ curl http://spotlight.sztaki.hu:2222/rest/annotate \
 Related Work
 ============
   - Automatic Domain Identification for Linked Open Data (http://daselab.cs.wright.edu/pub/domainIdentLOD13.pdf) 
+  - Meusel, R., Spahiu, B., Bizer, C. & Paulheim, H. (2015). Towards Automatic Topical Classification of LOD Datasets
 
 TODO
 ====
